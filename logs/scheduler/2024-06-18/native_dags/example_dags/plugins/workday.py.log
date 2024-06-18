@@ -1,0 +1,264 @@
+[2024-06-18T13:42:14.172+0545] {processor.py:161} INFO - Started process (PID=14115) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T13:42:14.174+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-18T13:42:14.178+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:42:14.177+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T13:42:14.185+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:42:14.184+0545] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-18T13:42:14.186+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T13:42:14.204+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.050 seconds
+[2024-06-18T13:43:15.847+0545] {processor.py:161} INFO - Started process (PID=14409) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T13:43:15.849+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-18T13:43:15.851+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:43:15.851+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T13:43:15.855+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:43:15.855+0545] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-18T13:43:15.855+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T13:43:15.864+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.034 seconds
+[2024-06-18T13:44:13.372+0545] {processor.py:161} INFO - Started process (PID=14699) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T13:44:13.385+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-18T13:44:13.390+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:44:13.388+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T13:44:13.397+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:44:13.396+0545] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-18T13:44:13.397+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T13:44:13.413+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.057 seconds
+[2024-06-18T13:45:16.377+0545] {processor.py:161} INFO - Started process (PID=15000) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T13:45:16.390+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-18T13:45:16.394+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:45:16.393+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T13:45:16.399+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:45:16.399+0545] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-18T13:45:16.400+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T13:45:16.422+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.057 seconds
+[2024-06-18T13:46:07.677+0545] {processor.py:161} INFO - Started process (PID=15247) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T13:46:07.691+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-18T13:46:07.693+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:46:07.693+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T13:46:07.697+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:46:07.697+0545] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-18T13:46:07.697+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T13:46:07.709+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.047 seconds
+[2024-06-18T13:47:00.737+0545] {processor.py:161} INFO - Started process (PID=15504) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T13:47:00.749+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-18T13:47:00.751+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:47:00.751+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T13:47:00.755+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:47:00.755+0545] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-18T13:47:00.756+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T13:47:00.772+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.046 seconds
+[2024-06-18T13:47:50.906+0545] {processor.py:161} INFO - Started process (PID=15748) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T13:47:50.918+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-18T13:47:50.921+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:47:50.920+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T13:47:50.925+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:47:50.924+0545] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-18T13:47:50.925+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T13:47:50.941+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.042 seconds
+[2024-06-18T13:48:41.626+0545] {processor.py:161} INFO - Started process (PID=16010) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T13:48:41.638+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-18T13:48:41.640+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:48:41.640+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T13:48:41.644+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:48:41.643+0545] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-18T13:48:41.644+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T13:48:41.658+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.045 seconds
+[2024-06-18T13:49:44.815+0545] {processor.py:161} INFO - Started process (PID=16321) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T13:49:44.828+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-18T13:49:44.831+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:49:44.830+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T13:49:44.836+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:49:44.836+0545] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-18T13:49:44.837+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T13:49:44.852+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.046 seconds
+[2024-06-18T13:51:05.479+0545] {processor.py:161} INFO - Started process (PID=16710) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T13:51:05.492+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-18T13:51:05.495+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:51:05.494+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T13:51:05.498+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:51:05.497+0545] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-18T13:51:05.498+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T13:51:05.508+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.036 seconds
+[2024-06-18T13:52:15.235+0545] {processor.py:161} INFO - Started process (PID=17088) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T13:52:15.248+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-18T13:52:15.251+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:52:15.251+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T13:52:15.257+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:52:15.256+0545] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-18T13:52:15.257+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T13:52:15.274+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.045 seconds
+[2024-06-18T13:53:30.193+0545] {processor.py:161} INFO - Started process (PID=17484) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T13:53:30.206+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-18T13:53:30.209+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:53:30.208+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T13:53:30.215+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:53:30.214+0545] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-18T13:53:30.215+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T13:53:30.235+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.056 seconds
+[2024-06-18T13:54:23.748+0545] {processor.py:161} INFO - Started process (PID=17745) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T13:54:23.761+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-18T13:54:23.765+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:54:23.764+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T13:54:23.771+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:54:23.770+0545] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-18T13:54:23.771+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T13:54:23.792+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.057 seconds
+[2024-06-18T13:55:27.385+0545] {processor.py:161} INFO - Started process (PID=18076) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T13:55:27.399+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-18T13:55:27.402+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:55:27.401+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T13:55:27.408+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:55:27.407+0545] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-18T13:55:27.409+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T13:55:27.424+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.053 seconds
+[2024-06-18T13:56:23.345+0545] {processor.py:161} INFO - Started process (PID=18345) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T13:56:23.359+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-18T13:56:23.362+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:56:23.361+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T13:56:23.368+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:56:23.367+0545] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-18T13:56:23.368+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T13:56:23.388+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.056 seconds
+[2024-06-18T13:57:11.064+0545] {processor.py:161} INFO - Started process (PID=18580) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T13:57:11.078+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-18T13:57:11.082+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:57:11.081+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T13:57:11.087+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:57:11.087+0545] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-18T13:57:11.088+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T13:57:11.115+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.067 seconds
+[2024-06-18T14:05:06.472+0545] {processor.py:161} INFO - Started process (PID=20673) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T14:05:06.474+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-18T14:05:06.477+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:05:06.476+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T14:05:06.481+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:05:06.481+0545] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-18T14:05:06.482+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T14:05:06.501+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.041 seconds
+[2024-06-18T14:06:10.310+0545] {processor.py:161} INFO - Started process (PID=20990) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T14:06:10.323+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-18T14:06:10.326+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:06:10.326+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T14:06:10.329+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:06:10.329+0545] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-18T14:06:10.330+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T14:06:10.338+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.042 seconds
+[2024-06-18T14:07:07.691+0545] {processor.py:161} INFO - Started process (PID=21265) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T14:07:07.698+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-18T14:07:07.701+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:07:07.701+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T14:07:07.707+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:07:07.707+0545] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-18T14:07:07.708+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T14:07:07.722+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.046 seconds
+[2024-06-18T14:08:04.548+0545] {processor.py:161} INFO - Started process (PID=21548) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T14:08:04.561+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-18T14:08:04.565+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:08:04.564+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T14:08:04.571+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:08:04.570+0545] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-18T14:08:04.572+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T14:08:04.594+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.059 seconds
+[2024-06-18T14:08:58.368+0545] {processor.py:161} INFO - Started process (PID=21806) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T14:08:58.381+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-18T14:08:58.385+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:08:58.384+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T14:08:58.390+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:08:58.389+0545] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-18T14:08:58.391+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T14:08:58.413+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.060 seconds
+[2024-06-18T14:09:53.790+0545] {processor.py:161} INFO - Started process (PID=22072) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T14:09:53.803+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-18T14:09:53.807+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:09:53.806+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T14:09:53.813+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:09:53.812+0545] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-18T14:09:53.814+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T14:09:53.830+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.047 seconds
+[2024-06-18T14:10:47.478+0545] {processor.py:161} INFO - Started process (PID=22330) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T14:10:47.492+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-18T14:10:47.495+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:10:47.494+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T14:10:47.501+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:10:47.501+0545] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-18T14:10:47.502+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T14:10:47.520+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.054 seconds
+[2024-06-18T14:11:39.243+0545] {processor.py:161} INFO - Started process (PID=22581) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T14:11:39.256+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-18T14:11:39.259+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:11:39.258+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T14:11:39.265+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:11:39.264+0545] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-18T14:11:39.265+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T14:11:39.279+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.050 seconds
+[2024-06-18T14:12:30.132+0545] {processor.py:161} INFO - Started process (PID=22826) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T14:12:30.146+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-18T14:12:30.149+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:12:30.148+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T14:12:30.156+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:12:30.155+0545] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-18T14:12:30.158+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T14:12:30.180+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.062 seconds
+[2024-06-18T14:13:20.068+0545] {processor.py:161} INFO - Started process (PID=23067) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T14:13:20.081+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-18T14:13:20.085+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:13:20.084+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T14:13:20.090+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:13:20.090+0545] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-18T14:13:20.091+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T14:13:20.117+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.064 seconds
+[2024-06-18T14:14:13.697+0545] {processor.py:161} INFO - Started process (PID=23325) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T14:14:13.710+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-18T14:14:13.713+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:14:13.712+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T14:14:13.719+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:14:13.718+0545] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-18T14:14:13.719+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T14:14:13.740+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.056 seconds
+[2024-06-18T14:15:13.820+0545] {processor.py:161} INFO - Started process (PID=23639) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T14:15:13.822+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-18T14:15:13.824+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:15:13.823+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T14:15:13.826+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:15:13.826+0545] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-18T14:15:13.827+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T14:15:13.836+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.025 seconds
+[2024-06-18T14:16:14.266+0545] {processor.py:161} INFO - Started process (PID=23930) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T14:16:14.279+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-18T14:16:14.282+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:16:14.281+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T14:16:14.287+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:16:14.286+0545] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-18T14:16:14.287+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T14:16:14.304+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.053 seconds
+[2024-06-18T14:17:08.069+0545] {processor.py:161} INFO - Started process (PID=24191) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T14:17:08.082+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-18T14:17:08.086+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:17:08.085+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T14:17:08.089+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:17:08.089+0545] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-18T14:17:08.089+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T14:17:08.103+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.047 seconds
+[2024-06-18T14:18:03.109+0545] {processor.py:161} INFO - Started process (PID=24453) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T14:18:03.122+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-18T14:18:03.125+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:18:03.124+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T14:18:03.130+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:18:03.130+0545] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-18T14:18:03.131+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T14:18:03.155+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.058 seconds
+[2024-06-18T14:18:58.325+0545] {processor.py:161} INFO - Started process (PID=24719) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T14:18:58.338+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-18T14:18:58.342+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:18:58.341+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T14:18:58.347+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:18:58.347+0545] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-18T14:18:58.348+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T14:18:58.372+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.060 seconds
+[2024-06-18T14:19:54.547+0545] {processor.py:161} INFO - Started process (PID=24987) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T14:19:54.549+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-18T14:19:54.552+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:19:54.551+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T14:19:54.558+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:19:54.558+0545] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-18T14:19:54.559+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T14:19:54.578+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.046 seconds
+[2024-06-18T14:20:45.660+0545] {processor.py:161} INFO - Started process (PID=25234) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T14:20:45.674+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-18T14:20:45.677+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:20:45.677+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T14:20:45.683+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:20:45.683+0545] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-18T14:20:45.684+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T14:20:45.706+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.059 seconds
+[2024-06-18T14:21:38.301+0545] {processor.py:161} INFO - Started process (PID=25486) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T14:21:38.314+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-18T14:21:38.317+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:21:38.316+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T14:21:38.322+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:21:38.322+0545] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-18T14:21:38.323+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T14:21:38.345+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.059 seconds
+[2024-06-18T14:22:34.294+0545] {processor.py:161} INFO - Started process (PID=25756) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T14:22:34.307+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-18T14:22:34.310+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:22:34.309+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T14:22:34.315+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:22:34.315+0545] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-18T14:22:34.316+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T14:22:34.338+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.057 seconds
+[2024-06-18T14:23:26.912+0545] {processor.py:161} INFO - Started process (PID=26012) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T14:23:26.925+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-18T14:23:26.927+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:23:26.927+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T14:23:26.931+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:23:26.931+0545] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-18T14:23:26.932+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T14:23:26.948+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.050 seconds
+[2024-06-18T17:15:44.004+0545] {processor.py:161} INFO - Started process (PID=4042) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T17:15:44.006+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-18T17:15:44.008+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:15:44.007+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T17:15:44.011+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:15:44.011+0545] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-18T17:15:44.011+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T17:15:44.030+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.033 seconds
+[2024-06-18T17:17:26.563+0545] {processor.py:161} INFO - Started process (PID=4608) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T17:17:26.565+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-18T17:17:26.575+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:17:26.574+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T17:17:26.579+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:17:26.578+0545] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-18T17:17:26.579+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T17:17:26.595+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.051 seconds
+[2024-06-18T17:18:27.233+0545] {processor.py:161} INFO - Started process (PID=4955) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T17:18:27.246+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-18T17:18:27.248+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:18:27.247+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T17:18:27.253+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:18:27.253+0545] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-18T17:18:27.253+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T17:18:27.272+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.050 seconds
+[2024-06-18T17:19:27.614+0545] {processor.py:161} INFO - Started process (PID=5608) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T17:19:27.617+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-18T17:19:27.618+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:19:27.618+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T17:19:27.623+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:19:27.623+0545] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-18T17:19:27.624+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T17:19:27.641+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.038 seconds
+[2024-06-18T17:20:20.394+0545] {processor.py:161} INFO - Started process (PID=6316) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T17:20:20.397+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-18T17:20:20.399+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:20:20.398+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T17:20:20.403+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:20:20.403+0545] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-18T17:20:20.404+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T17:20:20.415+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.033 seconds
+[2024-06-18T17:21:54.515+0545] {processor.py:161} INFO - Started process (PID=6969) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T17:21:54.517+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-18T17:21:54.519+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:21:54.519+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T17:21:54.523+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:21:54.523+0545] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-18T17:21:54.523+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T17:21:54.537+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.032 seconds
+[2024-06-18T17:23:00.858+0545] {processor.py:161} INFO - Started process (PID=7321) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T17:23:00.872+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-18T17:23:00.875+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:23:00.874+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T17:23:00.881+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:23:00.880+0545] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-18T17:23:00.881+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-18T17:23:00.902+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.057 seconds

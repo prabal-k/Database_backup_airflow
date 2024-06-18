@@ -1,0 +1,375 @@
+[2024-06-18T13:42:05.760+0545] {processor.py:161} INFO - Started process (PID=14056) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T13:42:05.761+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-06-18T13:42:05.764+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:42:05.764+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T13:42:05.782+0545] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T13:42:05.912+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:42:05.911+0545] {override.py:1829} INFO - Created Permission View: can read on DAG:tutorial
+[2024-06-18T13:42:05.921+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:42:05.921+0545] {override.py:1829} INFO - Created Permission View: can edit on DAG:tutorial
+[2024-06-18T13:42:05.927+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:42:05.927+0545] {override.py:1829} INFO - Created Permission View: can delete on DAG:tutorial
+[2024-06-18T13:42:05.927+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:42:05.927+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T13:42:05.937+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:42:05.937+0545] {dag.py:3118} INFO - Creating ORM DAG for tutorial
+[2024-06-18T13:42:05.945+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:42:05.945+0545] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T13:42:05.962+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.213 seconds
+[2024-06-18T13:43:08.392+0545] {processor.py:161} INFO - Started process (PID=14373) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T13:43:08.406+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-06-18T13:43:08.411+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:43:08.410+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T13:43:08.423+0545] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T13:43:08.442+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:43:08.442+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T13:43:08.460+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:43:08.459+0545] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T13:43:08.476+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.098 seconds
+[2024-06-18T13:44:04.518+0545] {processor.py:161} INFO - Started process (PID=14658) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T13:44:04.532+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-06-18T13:44:04.535+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:44:04.534+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T13:44:04.548+0545] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T13:44:04.569+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:44:04.569+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T13:44:04.585+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:44:04.585+0545] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T13:44:04.691+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.186 seconds
+[2024-06-18T13:44:36.304+0545] {processor.py:161} INFO - Started process (PID=14807) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T13:44:36.305+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-06-18T13:44:36.308+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:44:36.307+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T13:44:36.317+0545] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T13:44:36.446+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:44:36.446+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T13:44:36.467+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:44:36.467+0545] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T13:44:36.492+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.195 seconds
+[2024-06-18T13:45:08.371+0545] {processor.py:161} INFO - Started process (PID=14962) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T13:45:08.384+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-06-18T13:45:08.387+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:45:08.387+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T13:45:08.400+0545] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T13:45:08.431+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:45:08.431+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T13:45:08.454+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:45:08.454+0545] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T13:45:08.483+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.124 seconds
+[2024-06-18T13:46:00.694+0545] {processor.py:161} INFO - Started process (PID=15213) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T13:46:00.707+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-06-18T13:46:00.710+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:46:00.710+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T13:46:00.725+0545] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T13:46:00.763+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:46:00.763+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T13:46:00.786+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:46:00.786+0545] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T13:46:00.808+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.132 seconds
+[2024-06-18T13:46:53.347+0545] {processor.py:161} INFO - Started process (PID=15469) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T13:46:53.360+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-06-18T13:46:53.363+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:46:53.363+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T13:46:53.375+0545] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T13:46:53.409+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:46:53.408+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T13:46:53.437+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:46:53.437+0545] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T13:46:53.469+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.133 seconds
+[2024-06-18T13:47:43.402+0545] {processor.py:161} INFO - Started process (PID=15712) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T13:47:43.414+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-06-18T13:47:43.416+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:47:43.415+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T13:47:43.423+0545] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T13:47:43.442+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:47:43.441+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T13:47:43.461+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:47:43.461+0545] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T13:47:43.479+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.087 seconds
+[2024-06-18T13:48:34.653+0545] {processor.py:161} INFO - Started process (PID=15972) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T13:48:34.666+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-06-18T13:48:34.668+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:48:34.667+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T13:48:34.677+0545] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T13:48:34.698+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:48:34.698+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T13:48:34.721+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:48:34.721+0545] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T13:48:34.743+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.101 seconds
+[2024-06-18T13:49:37.059+0545] {processor.py:161} INFO - Started process (PID=16282) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T13:49:37.071+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-06-18T13:49:37.074+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:49:37.073+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T13:49:37.085+0545] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T13:49:37.117+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:49:37.117+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T13:49:37.161+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:49:37.160+0545] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T13:49:37.201+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.152 seconds
+[2024-06-18T13:50:25.445+0545] {processor.py:161} INFO - Started process (PID=16517) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T13:50:25.459+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-06-18T13:50:25.461+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:50:25.460+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T13:50:25.471+0545] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T13:50:25.496+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:50:25.495+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T13:50:25.521+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:50:25.520+0545] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T13:50:25.543+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.114 seconds
+[2024-06-18T13:51:26.442+0545] {processor.py:161} INFO - Started process (PID=16816) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T13:51:26.444+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-06-18T13:51:26.447+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:51:26.446+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T13:51:26.455+0545] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T13:51:26.473+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:51:26.473+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T13:51:26.510+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:51:26.509+0545] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T13:51:26.554+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.121 seconds
+[2024-06-18T13:52:06.942+0545] {processor.py:161} INFO - Started process (PID=17049) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T13:52:06.943+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-06-18T13:52:06.945+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:52:06.945+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T13:52:06.951+0545] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T13:52:06.973+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:52:06.973+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T13:52:07.000+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:52:07.000+0545] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T13:52:07.025+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.092 seconds
+[2024-06-18T13:52:42.065+0545] {processor.py:161} INFO - Started process (PID=17228) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T13:52:42.066+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-06-18T13:52:42.068+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:52:42.068+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T13:52:42.074+0545] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T13:52:42.088+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:52:42.087+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T13:52:42.106+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:52:42.105+0545] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T13:52:42.124+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.065 seconds
+[2024-06-18T13:53:22.323+0545] {processor.py:161} INFO - Started process (PID=17446) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T13:53:22.336+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-06-18T13:53:22.341+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:53:22.340+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T13:53:22.355+0545] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T13:53:22.375+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:53:22.375+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T13:53:22.393+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:53:22.393+0545] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T13:53:22.411+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.103 seconds
+[2024-06-18T13:54:00.107+0545] {processor.py:161} INFO - Started process (PID=17629) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T13:54:00.110+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-06-18T13:54:00.112+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:54:00.111+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T13:54:00.118+0545] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T13:54:00.136+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:54:00.135+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T13:54:00.158+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:54:00.158+0545] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T13:54:00.180+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.086 seconds
+[2024-06-18T13:54:47.341+0545] {processor.py:161} INFO - Started process (PID=17860) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T13:54:47.353+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-06-18T13:54:47.356+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:54:47.355+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T13:54:47.363+0545] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T13:54:47.378+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:54:47.378+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T13:54:47.402+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:54:47.402+0545] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T13:54:47.424+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.089 seconds
+[2024-06-18T13:55:22.222+0545] {processor.py:161} INFO - Started process (PID=18051) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T13:55:22.235+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-06-18T13:55:22.239+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:55:22.238+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T13:55:22.255+0545] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T13:55:22.277+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:55:22.277+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T13:55:22.294+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:55:22.294+0545] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T13:55:22.312+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.107 seconds
+[2024-06-18T13:55:57.437+0545] {processor.py:161} INFO - Started process (PID=18221) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T13:55:57.451+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-06-18T13:55:57.455+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:55:57.454+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T13:55:57.464+0545] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T13:55:57.480+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:55:57.480+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T13:55:57.516+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:55:57.515+0545] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T13:55:57.540+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.119 seconds
+[2024-06-18T13:56:48.083+0545] {processor.py:161} INFO - Started process (PID=18467) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T13:56:48.096+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-06-18T13:56:48.099+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:56:48.098+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T13:56:48.113+0545] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T13:56:48.144+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:56:48.144+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T13:56:48.164+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:56:48.163+0545] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T13:56:48.183+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.113 seconds
+[2024-06-18T13:57:38.276+0545] {processor.py:161} INFO - Started process (PID=18711) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T13:57:38.289+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-06-18T13:57:38.292+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:57:38.291+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T13:57:38.305+0545] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T13:57:38.342+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:57:38.341+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T13:57:38.366+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:57:38.365+0545] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T13:57:38.386+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.125 seconds
+[2024-06-18T14:04:55.194+0545] {processor.py:161} INFO - Started process (PID=20575) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T14:04:55.207+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-06-18T14:04:55.211+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:04:55.210+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T14:04:55.229+0545] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T14:04:55.251+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:04:55.251+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:04:55.267+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:04:55.267+0545] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T14:04:55.284+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.105 seconds
+[2024-06-18T14:06:02.587+0545] {processor.py:161} INFO - Started process (PID=20953) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T14:06:02.601+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-06-18T14:06:02.606+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:06:02.604+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T14:06:02.619+0545] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T14:06:02.649+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:06:02.649+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:06:02.681+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:06:02.681+0545] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T14:06:02.714+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.139 seconds
+[2024-06-18T14:06:59.881+0545] {processor.py:161} INFO - Started process (PID=21228) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T14:06:59.895+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-06-18T14:06:59.899+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:06:59.898+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T14:06:59.913+0545] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T14:06:59.933+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:06:59.933+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:07:00.038+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:07:00.038+0545] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T14:07:00.075+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.207 seconds
+[2024-06-18T14:07:56.940+0545] {processor.py:161} INFO - Started process (PID=21512) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T14:07:56.954+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-06-18T14:07:56.957+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:07:56.956+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T14:07:56.970+0545] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T14:07:56.999+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:07:56.999+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:07:57.019+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:07:57.019+0545] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T14:07:57.055+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.130 seconds
+[2024-06-18T14:08:51.311+0545] {processor.py:161} INFO - Started process (PID=21772) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T14:08:51.324+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-06-18T14:08:51.327+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:08:51.326+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T14:08:51.340+0545] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T14:08:51.370+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:08:51.370+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:08:51.397+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:08:51.397+0545] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T14:08:51.438+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.142 seconds
+[2024-06-18T14:09:46.163+0545] {processor.py:161} INFO - Started process (PID=22036) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T14:09:46.176+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-06-18T14:09:46.180+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:09:46.179+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T14:09:46.193+0545] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T14:09:46.222+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:09:46.222+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:09:46.240+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:09:46.240+0545] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T14:09:46.258+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.108 seconds
+[2024-06-18T14:10:40.712+0545] {processor.py:161} INFO - Started process (PID=22297) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T14:10:40.724+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-06-18T14:10:40.728+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:10:40.727+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T14:10:40.739+0545] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T14:10:40.756+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:10:40.756+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:10:40.785+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:10:40.784+0545] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T14:10:40.813+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.115 seconds
+[2024-06-18T14:11:31.808+0545] {processor.py:161} INFO - Started process (PID=22545) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T14:11:31.821+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-06-18T14:11:31.824+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:11:31.823+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T14:11:31.837+0545] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T14:11:31.854+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:11:31.854+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:11:31.872+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:11:31.871+0545] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T14:11:31.893+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.100 seconds
+[2024-06-18T14:12:22.419+0545] {processor.py:161} INFO - Started process (PID=22789) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T14:12:22.432+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-06-18T14:12:22.435+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:12:22.434+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T14:12:22.448+0545] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T14:12:22.465+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:12:22.464+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:12:22.484+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:12:22.483+0545] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T14:12:22.509+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.105 seconds
+[2024-06-18T14:13:13.239+0545] {processor.py:161} INFO - Started process (PID=23033) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T14:13:13.241+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-06-18T14:13:13.243+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:13:13.242+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T14:13:13.254+0545] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T14:13:13.287+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:13:13.287+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:13:13.308+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:13:13.308+0545] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T14:13:13.352+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.126 seconds
+[2024-06-18T14:14:05.936+0545] {processor.py:161} INFO - Started process (PID=23288) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T14:14:05.949+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-06-18T14:14:05.952+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:14:05.951+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T14:14:05.964+0545] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T14:14:05.993+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:14:05.992+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:14:06.022+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:14:06.022+0545] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T14:14:06.042+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.121 seconds
+[2024-06-18T14:14:56.091+0545] {processor.py:161} INFO - Started process (PID=23531) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T14:14:56.105+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-06-18T14:14:56.108+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:14:56.107+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T14:14:56.121+0545] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T14:14:56.149+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:14:56.149+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:14:56.169+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:14:56.168+0545] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T14:14:56.204+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.128 seconds
+[2024-06-18T14:15:30.671+0545] {processor.py:161} INFO - Started process (PID=23720) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T14:15:30.685+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-06-18T14:15:30.688+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:15:30.687+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T14:15:30.703+0545] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T14:15:30.737+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:15:30.737+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:15:30.761+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:15:30.761+0545] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T14:15:30.785+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.128 seconds
+[2024-06-18T14:16:05.988+0545] {processor.py:161} INFO - Started process (PID=23891) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T14:16:06.001+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-06-18T14:16:06.006+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:16:06.005+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T14:16:06.020+0545] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T14:16:06.044+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:16:06.043+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:16:06.060+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:16:06.059+0545] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T14:16:06.089+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.115 seconds
+[2024-06-18T14:17:01.033+0545] {processor.py:161} INFO - Started process (PID=24154) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T14:17:01.046+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-06-18T14:17:01.049+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:17:01.049+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T14:17:01.063+0545] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T14:17:01.090+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:17:01.090+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:17:01.110+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:17:01.110+0545] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T14:17:01.136+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.117 seconds
+[2024-06-18T14:17:55.923+0545] {processor.py:161} INFO - Started process (PID=24418) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T14:17:55.937+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-06-18T14:17:55.941+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:17:55.940+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T14:17:55.955+0545] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T14:17:55.991+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:17:55.990+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:17:56.019+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:17:56.019+0545] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T14:17:56.038+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.128 seconds
+[2024-06-18T14:18:50.749+0545] {processor.py:161} INFO - Started process (PID=24683) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T14:18:50.762+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-06-18T14:18:50.766+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:18:50.765+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T14:18:50.779+0545] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T14:18:50.808+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:18:50.807+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:18:50.828+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:18:50.828+0545] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T14:18:50.849+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.114 seconds
+[2024-06-18T14:19:47.283+0545] {processor.py:161} INFO - Started process (PID=24952) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T14:19:47.295+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-06-18T14:19:47.298+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:19:47.298+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T14:19:47.312+0545] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T14:19:47.337+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:19:47.336+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:19:47.365+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:19:47.365+0545] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T14:19:47.394+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.122 seconds
+[2024-06-18T14:20:38.083+0545] {processor.py:161} INFO - Started process (PID=25198) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T14:20:38.097+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-06-18T14:20:38.101+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:20:38.100+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T14:20:38.114+0545] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T14:20:38.150+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:20:38.150+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:20:38.175+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:20:38.175+0545] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T14:20:38.196+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.127 seconds
+[2024-06-18T14:21:30.479+0545] {processor.py:161} INFO - Started process (PID=25448) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T14:21:30.492+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-06-18T14:21:30.495+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:21:30.494+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T14:21:30.508+0545] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T14:21:30.525+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:21:30.525+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:21:30.543+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:21:30.542+0545] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T14:21:30.561+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.098 seconds
+[2024-06-18T14:22:26.390+0545] {processor.py:161} INFO - Started process (PID=25718) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T14:22:26.403+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-06-18T14:22:26.408+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:22:26.407+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T14:22:26.423+0545] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T14:22:26.457+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:22:26.457+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:22:26.485+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:22:26.485+0545] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T14:22:26.512+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.136 seconds
+[2024-06-18T14:23:19.883+0545] {processor.py:161} INFO - Started process (PID=25976) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T14:23:19.885+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-06-18T14:23:19.888+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:23:19.887+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T14:23:19.895+0545] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T14:23:19.908+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:23:19.908+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:23:19.924+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:23:19.924+0545] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T14:23:19.947+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.080 seconds
+[2024-06-18T14:24:12.248+0545] {processor.py:161} INFO - Started process (PID=26232) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T14:24:12.262+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-06-18T14:24:12.265+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:24:12.264+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T14:24:12.278+0545] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T14:24:12.313+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:24:12.313+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:24:12.335+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:24:12.335+0545] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T14:24:12.367+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.134 seconds
+[2024-06-18T17:15:35.567+0545] {processor.py:161} INFO - Started process (PID=3994) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T17:15:35.580+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-06-18T17:15:35.582+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:15:35.582+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T17:15:35.596+0545] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T17:15:35.609+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:15:35.608+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T17:15:35.639+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:15:35.639+0545] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T17:15:35.660+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.100 seconds
+[2024-06-18T17:17:18.301+0545] {processor.py:161} INFO - Started process (PID=4569) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T17:17:18.303+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-06-18T17:17:18.304+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:17:18.304+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T17:17:18.312+0545] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T17:17:18.392+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:17:18.392+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T17:17:18.518+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:17:18.518+0545] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T17:17:18.555+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.266 seconds
+[2024-06-18T17:17:52.289+0545] {processor.py:161} INFO - Started process (PID=4729) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T17:17:52.292+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-06-18T17:17:52.293+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:17:52.293+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T17:17:52.307+0545] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T17:17:52.339+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:17:52.339+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T17:17:52.378+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:17:52.378+0545] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T17:17:52.414+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.139 seconds
+[2024-06-18T17:18:51.321+0545] {processor.py:161} INFO - Started process (PID=5435) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T17:18:51.343+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-06-18T17:18:51.344+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:18:51.344+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T17:18:51.508+0545] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T17:18:51.535+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:18:51.535+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T17:18:51.571+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:18:51.571+0545] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T17:18:51.610+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.306 seconds
+[2024-06-18T17:19:48.970+0545] {processor.py:161} INFO - Started process (PID=5862) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T17:19:48.982+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-06-18T17:19:48.984+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:19:48.983+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T17:19:48.994+0545] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T17:19:49.018+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:19:49.018+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T17:19:49.036+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:19:49.036+0545] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T17:19:49.060+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.096 seconds
+[2024-06-18T17:20:39.924+0545] {processor.py:161} INFO - Started process (PID=6515) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T17:20:39.927+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-06-18T17:20:39.928+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:20:39.928+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T17:20:39.942+0545] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T17:20:39.973+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:20:39.972+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T17:20:40.008+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:20:40.007+0545] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T17:20:40.029+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.120 seconds
+[2024-06-18T17:21:47.114+0545] {processor.py:161} INFO - Started process (PID=6928) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T17:21:47.126+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-06-18T17:21:47.128+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:21:47.128+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T17:21:47.139+0545] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T17:21:47.148+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:21:47.147+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T17:21:47.170+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:21:47.169+0545] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T17:21:47.190+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.083 seconds
+[2024-06-18T17:22:52.823+0545] {processor.py:161} INFO - Started process (PID=7279) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T17:22:52.836+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-06-18T17:22:52.840+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:22:52.839+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T17:22:52.852+0545] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T17:22:53.184+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:22:53.183+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T17:22:53.217+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:22:53.217+0545] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T17:22:53.268+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.457 seconds
+[2024-06-18T17:23:36.271+0545] {processor.py:161} INFO - Started process (PID=7491) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T17:23:36.273+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-06-18T17:23:36.277+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:23:36.276+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T17:23:36.288+0545] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-06-18T17:23:36.313+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:23:36.313+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T17:23:36.329+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:23:36.329+0545] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T17:23:36.348+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.089 seconds

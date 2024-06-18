@@ -1,0 +1,305 @@
+[2024-06-18T13:42:35.627+0545] {processor.py:161} INFO - Started process (PID=14217) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T13:42:35.628+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2024-06-18T13:42:35.630+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:42:35.629+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T13:42:35.637+0545] {processor.py:840} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T13:42:35.741+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:42:35.741+0545] {override.py:1829} INFO - Created Permission View: can read on DAG:example_dynamic_task_mapping
+[2024-06-18T13:42:35.750+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:42:35.750+0545] {override.py:1829} INFO - Created Permission View: can edit on DAG:example_dynamic_task_mapping
+[2024-06-18T13:42:35.757+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:42:35.756+0545] {override.py:1829} INFO - Created Permission View: can delete on DAG:example_dynamic_task_mapping
+[2024-06-18T13:42:35.757+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:42:35.757+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T13:42:35.765+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:42:35.765+0545] {dag.py:3118} INFO - Creating ORM DAG for example_dynamic_task_mapping
+[2024-06-18T13:42:35.773+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:42:35.773+0545] {dag.py:3954} INFO - Setting next_dagrun for example_dynamic_task_mapping to 2022-03-04 00:00:00+00:00, run_after=2022-03-05 00:00:00+00:00
+[2024-06-18T13:42:35.865+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.245 seconds
+[2024-06-18T13:43:35.608+0545] {processor.py:161} INFO - Started process (PID=14514) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T13:43:35.609+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2024-06-18T13:43:35.611+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:43:35.611+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T13:43:35.618+0545] {processor.py:840} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T13:43:35.632+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:43:35.632+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T13:43:35.651+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:43:35.651+0545] {dag.py:3954} INFO - Setting next_dagrun for example_dynamic_task_mapping to 2022-03-04 00:00:00+00:00, run_after=2022-03-05 00:00:00+00:00
+[2024-06-18T13:43:35.670+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.068 seconds
+[2024-06-18T13:44:38.933+0545] {processor.py:161} INFO - Started process (PID=14819) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T13:44:38.935+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2024-06-18T13:44:38.938+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:44:38.937+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T13:44:39.087+0545] {processor.py:840} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T13:44:39.106+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:44:39.105+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T13:44:39.155+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:44:39.153+0545] {dag.py:3954} INFO - Setting next_dagrun for example_dynamic_task_mapping to 2022-03-04 00:00:00+00:00, run_after=2022-03-05 00:00:00+00:00
+[2024-06-18T13:44:39.205+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.282 seconds
+[2024-06-18T13:45:35.894+0545] {processor.py:161} INFO - Started process (PID=15094) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T13:45:35.908+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2024-06-18T13:45:35.912+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:45:35.911+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T13:45:35.928+0545] {processor.py:840} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T13:45:35.948+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:45:35.948+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T13:45:35.980+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:45:35.980+0545] {dag.py:3954} INFO - Setting next_dagrun for example_dynamic_task_mapping to 2022-03-04 00:00:00+00:00, run_after=2022-03-05 00:00:00+00:00
+[2024-06-18T13:45:36.004+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.124 seconds
+[2024-06-18T13:46:29.943+0545] {processor.py:161} INFO - Started process (PID=15357) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T13:46:29.955+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2024-06-18T13:46:29.958+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:46:29.957+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T13:46:29.973+0545] {processor.py:840} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T13:46:29.996+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:46:29.996+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T13:46:30.013+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:46:30.013+0545] {dag.py:3954} INFO - Setting next_dagrun for example_dynamic_task_mapping to 2022-03-04 00:00:00+00:00, run_after=2022-03-05 00:00:00+00:00
+[2024-06-18T13:46:30.034+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.105 seconds
+[2024-06-18T13:47:22.263+0545] {processor.py:161} INFO - Started process (PID=15609) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T13:47:22.276+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2024-06-18T13:47:22.278+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:47:22.278+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T13:47:22.290+0545] {processor.py:840} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T13:47:22.318+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:47:22.318+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T13:47:22.349+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:47:22.349+0545] {dag.py:3954} INFO - Setting next_dagrun for example_dynamic_task_mapping to 2022-03-04 00:00:00+00:00, run_after=2022-03-05 00:00:00+00:00
+[2024-06-18T13:47:22.390+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.134 seconds
+[2024-06-18T13:48:13.251+0545] {processor.py:161} INFO - Started process (PID=15859) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T13:48:13.253+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2024-06-18T13:48:13.255+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:48:13.255+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T13:48:13.263+0545] {processor.py:840} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T13:48:13.276+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:48:13.276+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T13:48:13.294+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:48:13.293+0545] {dag.py:3954} INFO - Setting next_dagrun for example_dynamic_task_mapping to 2022-03-04 00:00:00+00:00, run_after=2022-03-05 00:00:00+00:00
+[2024-06-18T13:48:13.311+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.073 seconds
+[2024-06-18T13:49:57.971+0545] {processor.py:161} INFO - Started process (PID=16384) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T13:49:57.985+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2024-06-18T13:49:57.989+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:49:57.988+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T13:49:58.005+0545] {processor.py:840} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T13:49:58.025+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:49:58.025+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T13:49:58.044+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:49:58.044+0545] {dag.py:3954} INFO - Setting next_dagrun for example_dynamic_task_mapping to 2022-03-04 00:00:00+00:00, run_after=2022-03-05 00:00:00+00:00
+[2024-06-18T13:49:58.062+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.106 seconds
+[2024-06-18T13:51:33.839+0545] {processor.py:161} INFO - Started process (PID=16879) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T13:51:33.841+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2024-06-18T13:51:33.843+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:51:33.843+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T13:51:33.852+0545] {processor.py:840} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T13:51:33.868+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:51:33.868+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T13:51:33.889+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:51:33.888+0545] {dag.py:3954} INFO - Setting next_dagrun for example_dynamic_task_mapping to 2022-03-04 00:00:00+00:00, run_after=2022-03-05 00:00:00+00:00
+[2024-06-18T13:51:33.917+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.087 seconds
+[2024-06-18T13:52:35.370+0545] {processor.py:161} INFO - Started process (PID=17196) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T13:52:35.384+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2024-06-18T13:52:35.387+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:52:35.387+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T13:52:35.411+0545] {processor.py:840} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T13:52:35.446+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:52:35.445+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T13:52:35.487+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:52:35.487+0545] {dag.py:3954} INFO - Setting next_dagrun for example_dynamic_task_mapping to 2022-03-04 00:00:00+00:00, run_after=2022-03-05 00:00:00+00:00
+[2024-06-18T13:52:35.527+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.190 seconds
+[2024-06-18T13:53:48.731+0545] {processor.py:161} INFO - Started process (PID=17575) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T13:53:48.743+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2024-06-18T13:53:48.746+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:53:48.746+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T13:53:48.757+0545] {processor.py:840} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T13:53:48.778+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:53:48.778+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T13:53:48.797+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:53:48.796+0545] {dag.py:3954} INFO - Setting next_dagrun for example_dynamic_task_mapping to 2022-03-04 00:00:00+00:00, run_after=2022-03-05 00:00:00+00:00
+[2024-06-18T13:53:48.817+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.099 seconds
+[2024-06-18T13:54:42.285+0545] {processor.py:161} INFO - Started process (PID=17837) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T13:54:42.298+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2024-06-18T13:54:42.301+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:54:42.301+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T13:54:42.315+0545] {processor.py:840} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T13:54:42.335+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:54:42.335+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T13:54:42.354+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:54:42.354+0545] {dag.py:3954} INFO - Setting next_dagrun for example_dynamic_task_mapping to 2022-03-04 00:00:00+00:00, run_after=2022-03-05 00:00:00+00:00
+[2024-06-18T13:54:42.374+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.101 seconds
+[2024-06-18T13:55:46.905+0545] {processor.py:161} INFO - Started process (PID=18170) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T13:55:46.917+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2024-06-18T13:55:46.920+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:55:46.919+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T13:55:46.929+0545] {processor.py:840} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T13:55:46.944+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:55:46.943+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T13:55:46.962+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:55:46.962+0545] {dag.py:3954} INFO - Setting next_dagrun for example_dynamic_task_mapping to 2022-03-04 00:00:00+00:00, run_after=2022-03-05 00:00:00+00:00
+[2024-06-18T13:55:46.982+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.090 seconds
+[2024-06-18T13:56:40.393+0545] {processor.py:161} INFO - Started process (PID=18431) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T13:56:40.406+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2024-06-18T13:56:40.408+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:56:40.408+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T13:56:40.419+0545] {processor.py:840} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T13:56:40.440+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:56:40.440+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T13:56:40.461+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:56:40.461+0545] {dag.py:3954} INFO - Setting next_dagrun for example_dynamic_task_mapping to 2022-03-04 00:00:00+00:00, run_after=2022-03-05 00:00:00+00:00
+[2024-06-18T13:56:40.490+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.108 seconds
+[2024-06-18T13:57:44.024+0545] {processor.py:161} INFO - Started process (PID=18739) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T13:57:44.037+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2024-06-18T13:57:44.042+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:57:44.041+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T13:57:44.059+0545] {processor.py:840} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T13:57:44.079+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:57:44.079+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T13:57:44.112+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:57:44.112+0545] {dag.py:3954} INFO - Setting next_dagrun for example_dynamic_task_mapping to 2022-03-04 00:00:00+00:00, run_after=2022-03-05 00:00:00+00:00
+[2024-06-18T13:57:44.139+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.130 seconds
+[2024-06-18T14:05:31.361+0545] {processor.py:161} INFO - Started process (PID=20804) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T14:05:31.374+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2024-06-18T14:05:31.378+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:05:31.377+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T14:05:31.398+0545] {processor.py:840} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T14:05:31.433+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:05:31.432+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:05:31.472+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:05:31.472+0545] {dag.py:3954} INFO - Setting next_dagrun for example_dynamic_task_mapping to 2022-03-04 00:00:00+00:00, run_after=2022-03-05 00:00:00+00:00
+[2024-06-18T14:05:31.509+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.161 seconds
+[2024-06-18T14:06:29.304+0545] {processor.py:161} INFO - Started process (PID=21081) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T14:06:29.316+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2024-06-18T14:06:29.320+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:06:29.319+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T14:06:29.333+0545] {processor.py:840} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T14:06:29.365+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:06:29.364+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:06:29.398+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:06:29.398+0545] {dag.py:3954} INFO - Setting next_dagrun for example_dynamic_task_mapping to 2022-03-04 00:00:00+00:00, run_after=2022-03-05 00:00:00+00:00
+[2024-06-18T14:06:29.416+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.117 seconds
+[2024-06-18T14:07:28.233+0545] {processor.py:161} INFO - Started process (PID=21364) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T14:07:28.246+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2024-06-18T14:07:28.249+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:07:28.249+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T14:07:28.349+0545] {processor.py:840} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T14:07:28.358+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:07:28.358+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:07:28.373+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:07:28.372+0545] {dag.py:3954} INFO - Setting next_dagrun for example_dynamic_task_mapping to 2022-03-04 00:00:00+00:00, run_after=2022-03-05 00:00:00+00:00
+[2024-06-18T14:07:28.401+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.180 seconds
+[2024-06-18T14:08:24.326+0545] {processor.py:161} INFO - Started process (PID=21643) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T14:08:24.329+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2024-06-18T14:08:24.332+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:08:24.331+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T14:08:24.349+0545] {processor.py:840} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T14:08:24.370+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:08:24.370+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:08:24.389+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:08:24.389+0545] {dag.py:3954} INFO - Setting next_dagrun for example_dynamic_task_mapping to 2022-03-04 00:00:00+00:00, run_after=2022-03-05 00:00:00+00:00
+[2024-06-18T14:08:24.409+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.097 seconds
+[2024-06-18T14:09:19.460+0545] {processor.py:161} INFO - Started process (PID=21910) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T14:09:19.473+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2024-06-18T14:09:19.476+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:09:19.475+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T14:09:19.489+0545] {processor.py:840} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T14:09:19.511+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:09:19.510+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:09:19.540+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:09:19.540+0545] {dag.py:3954} INFO - Setting next_dagrun for example_dynamic_task_mapping to 2022-03-04 00:00:00+00:00, run_after=2022-03-05 00:00:00+00:00
+[2024-06-18T14:09:19.574+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.124 seconds
+[2024-06-18T14:10:15.761+0545] {processor.py:161} INFO - Started process (PID=22177) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T14:10:15.763+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2024-06-18T14:10:15.766+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:10:15.766+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T14:10:15.784+0545] {processor.py:840} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T14:10:15.805+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:10:15.805+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:10:15.832+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:10:15.832+0545] {dag.py:3954} INFO - Setting next_dagrun for example_dynamic_task_mapping to 2022-03-04 00:00:00+00:00, run_after=2022-03-05 00:00:00+00:00
+[2024-06-18T14:10:15.852+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.106 seconds
+[2024-06-18T14:11:08.240+0545] {processor.py:161} INFO - Started process (PID=22430) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T14:11:08.253+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2024-06-18T14:11:08.257+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:11:08.256+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T14:11:08.271+0545] {processor.py:840} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T14:11:08.287+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:11:08.287+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:11:08.304+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:11:08.304+0545] {dag.py:3954} INFO - Setting next_dagrun for example_dynamic_task_mapping to 2022-03-04 00:00:00+00:00, run_after=2022-03-05 00:00:00+00:00
+[2024-06-18T14:11:08.324+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.098 seconds
+[2024-06-18T14:12:01.743+0545] {processor.py:161} INFO - Started process (PID=22689) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T14:12:01.756+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2024-06-18T14:12:01.758+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:12:01.758+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T14:12:01.772+0545] {processor.py:840} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T14:12:01.790+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:12:01.789+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:12:01.823+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:12:01.822+0545] {dag.py:3954} INFO - Setting next_dagrun for example_dynamic_task_mapping to 2022-03-04 00:00:00+00:00, run_after=2022-03-05 00:00:00+00:00
+[2024-06-18T14:12:01.861+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.133 seconds
+[2024-06-18T14:12:52.620+0545] {processor.py:161} INFO - Started process (PID=22935) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T14:12:52.634+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2024-06-18T14:12:52.639+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:12:52.638+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T14:12:52.659+0545] {processor.py:840} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T14:12:52.694+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:12:52.694+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:12:52.715+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:12:52.714+0545] {dag.py:3954} INFO - Setting next_dagrun for example_dynamic_task_mapping to 2022-03-04 00:00:00+00:00, run_after=2022-03-05 00:00:00+00:00
+[2024-06-18T14:12:52.733+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.128 seconds
+[2024-06-18T14:13:44.586+0545] {processor.py:161} INFO - Started process (PID=23186) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T14:13:44.599+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2024-06-18T14:13:44.602+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:13:44.601+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T14:13:44.617+0545] {processor.py:840} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T14:13:44.645+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:13:44.644+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:13:44.663+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:13:44.663+0545] {dag.py:3954} INFO - Setting next_dagrun for example_dynamic_task_mapping to 2022-03-04 00:00:00+00:00, run_after=2022-03-05 00:00:00+00:00
+[2024-06-18T14:13:44.698+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.128 seconds
+[2024-06-18T14:14:36.649+0545] {processor.py:161} INFO - Started process (PID=23437) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T14:14:36.662+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2024-06-18T14:14:36.666+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:14:36.665+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T14:14:36.681+0545] {processor.py:840} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T14:14:36.696+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:14:36.695+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:14:36.736+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:14:36.735+0545] {dag.py:3954} INFO - Setting next_dagrun for example_dynamic_task_mapping to 2022-03-04 00:00:00+00:00, run_after=2022-03-05 00:00:00+00:00
+[2024-06-18T14:14:36.762+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.127 seconds
+[2024-06-18T14:15:41.056+0545] {processor.py:161} INFO - Started process (PID=23769) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T14:15:41.070+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2024-06-18T14:15:41.073+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:15:41.072+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T14:15:41.088+0545] {processor.py:840} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T14:15:41.122+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:15:41.121+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:15:41.146+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:15:41.146+0545] {dag.py:3954} INFO - Setting next_dagrun for example_dynamic_task_mapping to 2022-03-04 00:00:00+00:00, run_after=2022-03-05 00:00:00+00:00
+[2024-06-18T14:15:41.166+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.125 seconds
+[2024-06-18T14:16:36.927+0545] {processor.py:161} INFO - Started process (PID=24039) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T14:16:36.940+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2024-06-18T14:16:36.944+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:16:36.943+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T14:16:36.960+0545] {processor.py:840} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T14:16:36.983+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:16:36.982+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:16:37.005+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:16:37.005+0545] {dag.py:3954} INFO - Setting next_dagrun for example_dynamic_task_mapping to 2022-03-04 00:00:00+00:00, run_after=2022-03-05 00:00:00+00:00
+[2024-06-18T14:16:37.037+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.125 seconds
+[2024-06-18T14:17:31.408+0545] {processor.py:161} INFO - Started process (PID=24302) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T14:17:31.422+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2024-06-18T14:17:31.425+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:17:31.424+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T14:17:31.440+0545] {processor.py:840} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T14:17:31.461+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:17:31.461+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:17:31.479+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:17:31.479+0545] {dag.py:3954} INFO - Setting next_dagrun for example_dynamic_task_mapping to 2022-03-04 00:00:00+00:00, run_after=2022-03-05 00:00:00+00:00
+[2024-06-18T14:17:31.497+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.103 seconds
+[2024-06-18T14:18:27.220+0545] {processor.py:161} INFO - Started process (PID=24571) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T14:18:27.233+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2024-06-18T14:18:27.237+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:18:27.236+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T14:18:27.253+0545] {processor.py:840} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T14:18:27.286+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:18:27.285+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:18:27.330+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:18:27.329+0545] {dag.py:3954} INFO - Setting next_dagrun for example_dynamic_task_mapping to 2022-03-04 00:00:00+00:00, run_after=2022-03-05 00:00:00+00:00
+[2024-06-18T14:18:27.375+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.169 seconds
+[2024-06-18T14:19:22.477+0545] {processor.py:161} INFO - Started process (PID=24834) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T14:19:22.490+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2024-06-18T14:19:22.494+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:19:22.493+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T14:19:22.510+0545] {processor.py:840} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T14:19:22.544+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:19:22.544+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:19:22.580+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:19:22.580+0545] {dag.py:3954} INFO - Setting next_dagrun for example_dynamic_task_mapping to 2022-03-04 00:00:00+00:00, run_after=2022-03-05 00:00:00+00:00
+[2024-06-18T14:19:22.631+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.169 seconds
+[2024-06-18T14:20:15.950+0545] {processor.py:161} INFO - Started process (PID=25090) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T14:20:15.964+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2024-06-18T14:20:15.968+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:20:15.967+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T14:20:15.983+0545] {processor.py:840} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T14:20:16.016+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:20:16.016+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:20:16.059+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:20:16.058+0545] {dag.py:3954} INFO - Setting next_dagrun for example_dynamic_task_mapping to 2022-03-04 00:00:00+00:00, run_after=2022-03-05 00:00:00+00:00
+[2024-06-18T14:20:16.108+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.171 seconds
+[2024-06-18T14:21:08.283+0545] {processor.py:161} INFO - Started process (PID=25344) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T14:21:08.295+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2024-06-18T14:21:08.298+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:21:08.297+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T14:21:08.314+0545] {processor.py:840} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T14:21:08.339+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:21:08.338+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:21:08.375+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:21:08.374+0545] {dag.py:3954} INFO - Setting next_dagrun for example_dynamic_task_mapping to 2022-03-04 00:00:00+00:00, run_after=2022-03-05 00:00:00+00:00
+[2024-06-18T14:21:08.397+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.129 seconds
+[2024-06-18T14:22:03.817+0545] {processor.py:161} INFO - Started process (PID=25608) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T14:22:03.830+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2024-06-18T14:22:03.833+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:22:03.833+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T14:22:03.849+0545] {processor.py:840} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T14:22:03.869+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:22:03.869+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:22:03.887+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:22:03.886+0545] {dag.py:3954} INFO - Setting next_dagrun for example_dynamic_task_mapping to 2022-03-04 00:00:00+00:00, run_after=2022-03-05 00:00:00+00:00
+[2024-06-18T14:22:03.907+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.104 seconds
+[2024-06-18T14:22:57.697+0545] {processor.py:161} INFO - Started process (PID=25870) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T14:22:57.710+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2024-06-18T14:22:57.715+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:22:57.714+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T14:22:57.729+0545] {processor.py:840} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T14:22:57.747+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:22:57.747+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:22:57.766+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:22:57.766+0545] {dag.py:3954} INFO - Setting next_dagrun for example_dynamic_task_mapping to 2022-03-04 00:00:00+00:00, run_after=2022-03-05 00:00:00+00:00
+[2024-06-18T14:22:57.782+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.102 seconds
+[2024-06-18T14:23:49.973+0545] {processor.py:161} INFO - Started process (PID=26123) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T14:23:49.987+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2024-06-18T14:23:49.990+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:23:49.990+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T14:23:49.998+0545] {processor.py:840} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T14:23:50.031+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:23:50.031+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:23:50.054+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:23:50.054+0545] {dag.py:3954} INFO - Setting next_dagrun for example_dynamic_task_mapping to 2022-03-04 00:00:00+00:00, run_after=2022-03-05 00:00:00+00:00
+[2024-06-18T14:23:50.074+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.118 seconds
+[2024-06-18T17:16:37.075+0545] {processor.py:161} INFO - Started process (PID=4373) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T17:16:37.077+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2024-06-18T17:16:37.079+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:16:37.078+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T17:16:37.095+0545] {processor.py:840} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T17:16:37.207+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:16:37.207+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T17:16:37.224+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:16:37.223+0545] {dag.py:3954} INFO - Setting next_dagrun for example_dynamic_task_mapping to 2022-03-04 00:00:00+00:00, run_after=2022-03-05 00:00:00+00:00
+[2024-06-18T17:16:37.348+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.283 seconds
+[2024-06-18T17:17:47.760+0545] {processor.py:161} INFO - Started process (PID=4708) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T17:17:47.773+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2024-06-18T17:17:47.775+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:17:47.774+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T17:17:47.791+0545] {processor.py:840} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T17:17:47.814+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:17:47.814+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T17:17:47.829+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:17:47.829+0545] {dag.py:3954} INFO - Setting next_dagrun for example_dynamic_task_mapping to 2022-03-04 00:00:00+00:00, run_after=2022-03-05 00:00:00+00:00
+[2024-06-18T17:17:47.847+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.099 seconds
+[2024-06-18T17:18:48.679+0545] {processor.py:161} INFO - Started process (PID=5422) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T17:18:48.682+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2024-06-18T17:18:48.683+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:18:48.683+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T17:18:48.699+0545] {processor.py:840} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T17:18:48.831+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:18:48.831+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T17:18:48.844+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:18:48.844+0545] {dag.py:3954} INFO - Setting next_dagrun for example_dynamic_task_mapping to 2022-03-04 00:00:00+00:00, run_after=2022-03-05 00:00:00+00:00
+[2024-06-18T17:18:48.860+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.193 seconds
+[2024-06-18T17:19:46.232+0545] {processor.py:161} INFO - Started process (PID=5849) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T17:19:46.245+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2024-06-18T17:19:46.246+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:19:46.245+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T17:19:46.255+0545] {processor.py:840} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T17:19:46.270+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:19:46.269+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T17:19:46.289+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:19:46.288+0545] {dag.py:3954} INFO - Setting next_dagrun for example_dynamic_task_mapping to 2022-03-04 00:00:00+00:00, run_after=2022-03-05 00:00:00+00:00
+[2024-06-18T17:19:46.306+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.086 seconds
+[2024-06-18T17:20:44.002+0545] {processor.py:161} INFO - Started process (PID=6535) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T17:20:44.015+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2024-06-18T17:20:44.016+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:20:44.016+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T17:20:44.032+0545] {processor.py:840} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T17:20:44.054+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:20:44.054+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T17:20:44.073+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:20:44.072+0545] {dag.py:3954} INFO - Setting next_dagrun for example_dynamic_task_mapping to 2022-03-04 00:00:00+00:00, run_after=2022-03-05 00:00:00+00:00
+[2024-06-18T17:20:44.097+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.107 seconds
+[2024-06-18T17:22:12.851+0545] {processor.py:161} INFO - Started process (PID=7066) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T17:22:12.864+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2024-06-18T17:22:12.868+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:22:12.867+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T17:22:12.884+0545] {processor.py:840} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T17:22:12.897+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:22:12.897+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T17:22:12.915+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:22:12.915+0545] {dag.py:3954} INFO - Setting next_dagrun for example_dynamic_task_mapping to 2022-03-04 00:00:00+00:00, run_after=2022-03-05 00:00:00+00:00
+[2024-06-18T17:22:12.934+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.095 seconds
+[2024-06-18T17:23:23.532+0545] {processor.py:161} INFO - Started process (PID=7427) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T17:23:23.534+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2024-06-18T17:23:23.538+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:23:23.537+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T17:23:23.556+0545] {processor.py:840} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-06-18T17:23:23.759+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:23:23.758+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T17:23:23.772+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:23:23.772+0545] {dag.py:3954} INFO - Setting next_dagrun for example_dynamic_task_mapping to 2022-03-04 00:00:00+00:00, run_after=2022-03-05 00:00:00+00:00
+[2024-06-18T17:23:23.805+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.287 seconds

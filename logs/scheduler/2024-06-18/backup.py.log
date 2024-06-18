@@ -1,0 +1,377 @@
+[2024-06-18T13:42:04.272+0545] {processor.py:161} INFO - Started process (PID=14049) to work on /home/prabal/dags/backup.py
+[2024-06-18T13:42:04.274+0545] {processor.py:830} INFO - Processing file /home/prabal/dags/backup.py for tasks to queue
+[2024-06-18T13:42:04.277+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:42:04.276+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/dags/backup.py
+[2024-06-18T13:42:04.310+0545] {processor.py:840} INFO - DAG(s) 'Backup_Database' retrieved from /home/prabal/dags/backup.py
+[2024-06-18T13:42:04.583+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:42:04.583+0545] {override.py:1829} INFO - Created Permission View: can read on DAG:Backup_Database
+[2024-06-18T13:42:04.592+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:42:04.591+0545] {override.py:1829} INFO - Created Permission View: can edit on DAG:Backup_Database
+[2024-06-18T13:42:04.600+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:42:04.600+0545] {override.py:1829} INFO - Created Permission View: can delete on DAG:Backup_Database
+[2024-06-18T13:42:04.600+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:42:04.600+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T13:42:04.609+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:42:04.609+0545] {dag.py:3118} INFO - Creating ORM DAG for Backup_Database
+[2024-06-18T13:42:04.621+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:42:04.620+0545] {dag.py:3954} INFO - Setting next_dagrun for Backup_Database to 2024-06-18 07:40:00+00:00, run_after=2024-06-18 07:50:00+00:00
+[2024-06-18T13:42:04.636+0545] {processor.py:183} INFO - Processing /home/prabal/dags/backup.py took 0.376 seconds
+[2024-06-18T13:43:07.221+0545] {processor.py:161} INFO - Started process (PID=14367) to work on /home/prabal/dags/backup.py
+[2024-06-18T13:43:07.223+0545] {processor.py:830} INFO - Processing file /home/prabal/dags/backup.py for tasks to queue
+[2024-06-18T13:43:07.225+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:43:07.225+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/dags/backup.py
+[2024-06-18T13:43:07.236+0545] {processor.py:840} INFO - DAG(s) 'Backup_Database' retrieved from /home/prabal/dags/backup.py
+[2024-06-18T13:43:07.249+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:43:07.249+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T13:43:07.267+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:43:07.267+0545] {dag.py:3954} INFO - Setting next_dagrun for Backup_Database to 2024-06-18 07:40:00+00:00, run_after=2024-06-18 07:50:00+00:00
+[2024-06-18T13:43:07.285+0545] {processor.py:183} INFO - Processing /home/prabal/dags/backup.py took 0.075 seconds
+[2024-06-18T13:44:04.153+0545] {processor.py:161} INFO - Started process (PID=14656) to work on /home/prabal/dags/backup.py
+[2024-06-18T13:44:04.167+0545] {processor.py:830} INFO - Processing file /home/prabal/dags/backup.py for tasks to queue
+[2024-06-18T13:44:04.171+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:44:04.170+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/dags/backup.py
+[2024-06-18T13:44:04.196+0545] {processor.py:840} INFO - DAG(s) 'Backup_Database' retrieved from /home/prabal/dags/backup.py
+[2024-06-18T13:44:04.213+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:44:04.212+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T13:44:04.323+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:44:04.323+0545] {dag.py:3954} INFO - Setting next_dagrun for Backup_Database to 2024-06-18 07:40:00+00:00, run_after=2024-06-18 07:50:00+00:00
+[2024-06-18T13:44:04.352+0545] {processor.py:183} INFO - Processing /home/prabal/dags/backup.py took 0.215 seconds
+[2024-06-18T13:44:35.443+0545] {processor.py:161} INFO - Started process (PID=14803) to work on /home/prabal/dags/backup.py
+[2024-06-18T13:44:35.456+0545] {processor.py:830} INFO - Processing file /home/prabal/dags/backup.py for tasks to queue
+[2024-06-18T13:44:35.459+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:44:35.458+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/dags/backup.py
+[2024-06-18T13:44:35.583+0545] {processor.py:840} INFO - DAG(s) 'Backup_Database' retrieved from /home/prabal/dags/backup.py
+[2024-06-18T13:44:35.595+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:44:35.595+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T13:44:35.613+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:44:35.613+0545] {dag.py:3954} INFO - Setting next_dagrun for Backup_Database to 2024-06-18 07:40:00+00:00, run_after=2024-06-18 07:50:00+00:00
+[2024-06-18T13:44:35.632+0545] {processor.py:183} INFO - Processing /home/prabal/dags/backup.py took 0.198 seconds
+[2024-06-18T13:45:07.371+0545] {processor.py:161} INFO - Started process (PID=14957) to work on /home/prabal/dags/backup.py
+[2024-06-18T13:45:07.384+0545] {processor.py:830} INFO - Processing file /home/prabal/dags/backup.py for tasks to queue
+[2024-06-18T13:45:07.386+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:45:07.386+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/dags/backup.py
+[2024-06-18T13:45:07.402+0545] {processor.py:840} INFO - DAG(s) 'Backup_Database' retrieved from /home/prabal/dags/backup.py
+[2024-06-18T13:45:07.416+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:45:07.416+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T13:45:07.441+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:45:07.441+0545] {dag.py:3954} INFO - Setting next_dagrun for Backup_Database to 2024-06-18 07:50:00+00:00, run_after=2024-06-18 08:00:00+00:00
+[2024-06-18T13:45:07.461+0545] {processor.py:183} INFO - Processing /home/prabal/dags/backup.py took 0.099 seconds
+[2024-06-18T13:45:59.428+0545] {processor.py:161} INFO - Started process (PID=15207) to work on /home/prabal/dags/backup.py
+[2024-06-18T13:45:59.442+0545] {processor.py:830} INFO - Processing file /home/prabal/dags/backup.py for tasks to queue
+[2024-06-18T13:45:59.445+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:45:59.444+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/dags/backup.py
+[2024-06-18T13:45:59.468+0545] {processor.py:840} INFO - DAG(s) 'Backup_Database' retrieved from /home/prabal/dags/backup.py
+[2024-06-18T13:45:59.504+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:45:59.503+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T13:45:59.528+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:45:59.528+0545] {dag.py:3954} INFO - Setting next_dagrun for Backup_Database to 2024-06-18 07:50:00+00:00, run_after=2024-06-18 08:00:00+00:00
+[2024-06-18T13:45:59.548+0545] {processor.py:183} INFO - Processing /home/prabal/dags/backup.py took 0.134 seconds
+[2024-06-18T13:46:52.459+0545] {processor.py:161} INFO - Started process (PID=15464) to work on /home/prabal/dags/backup.py
+[2024-06-18T13:46:52.461+0545] {processor.py:830} INFO - Processing file /home/prabal/dags/backup.py for tasks to queue
+[2024-06-18T13:46:52.466+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:46:52.465+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/dags/backup.py
+[2024-06-18T13:46:52.488+0545] {processor.py:840} INFO - DAG(s) 'Backup_Database' retrieved from /home/prabal/dags/backup.py
+[2024-06-18T13:46:52.507+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:46:52.507+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T13:46:52.526+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:46:52.526+0545] {dag.py:3954} INFO - Setting next_dagrun for Backup_Database to 2024-06-18 07:50:00+00:00, run_after=2024-06-18 08:00:00+00:00
+[2024-06-18T13:46:52.553+0545] {processor.py:183} INFO - Processing /home/prabal/dags/backup.py took 0.107 seconds
+[2024-06-18T13:47:42.781+0545] {processor.py:161} INFO - Started process (PID=15709) to work on /home/prabal/dags/backup.py
+[2024-06-18T13:47:42.794+0545] {processor.py:830} INFO - Processing file /home/prabal/dags/backup.py for tasks to queue
+[2024-06-18T13:47:42.798+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:47:42.797+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/dags/backup.py
+[2024-06-18T13:47:42.825+0545] {processor.py:840} INFO - DAG(s) 'Backup_Database' retrieved from /home/prabal/dags/backup.py
+[2024-06-18T13:47:42.848+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:47:42.847+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T13:47:42.876+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:47:42.876+0545] {dag.py:3954} INFO - Setting next_dagrun for Backup_Database to 2024-06-18 07:50:00+00:00, run_after=2024-06-18 08:00:00+00:00
+[2024-06-18T13:47:42.910+0545] {processor.py:183} INFO - Processing /home/prabal/dags/backup.py took 0.143 seconds
+[2024-06-18T13:48:33.489+0545] {processor.py:161} INFO - Started process (PID=15966) to work on /home/prabal/dags/backup.py
+[2024-06-18T13:48:33.491+0545] {processor.py:830} INFO - Processing file /home/prabal/dags/backup.py for tasks to queue
+[2024-06-18T13:48:33.493+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:48:33.492+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/dags/backup.py
+[2024-06-18T13:48:33.508+0545] {processor.py:840} INFO - DAG(s) 'Backup_Database' retrieved from /home/prabal/dags/backup.py
+[2024-06-18T13:48:33.524+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:48:33.524+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T13:48:33.547+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:48:33.547+0545] {dag.py:3954} INFO - Setting next_dagrun for Backup_Database to 2024-06-18 07:50:00+00:00, run_after=2024-06-18 08:00:00+00:00
+[2024-06-18T13:48:33.566+0545] {processor.py:183} INFO - Processing /home/prabal/dags/backup.py took 0.084 seconds
+[2024-06-18T13:49:35.778+0545] {processor.py:161} INFO - Started process (PID=16276) to work on /home/prabal/dags/backup.py
+[2024-06-18T13:49:35.780+0545] {processor.py:830} INFO - Processing file /home/prabal/dags/backup.py for tasks to queue
+[2024-06-18T13:49:35.783+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:49:35.783+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/dags/backup.py
+[2024-06-18T13:49:35.802+0545] {processor.py:840} INFO - DAG(s) 'Backup_Database' retrieved from /home/prabal/dags/backup.py
+[2024-06-18T13:49:35.828+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:49:35.828+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T13:49:35.862+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:49:35.862+0545] {dag.py:3954} INFO - Setting next_dagrun for Backup_Database to 2024-06-18 08:00:00+00:00, run_after=2024-06-18 08:10:00+00:00
+[2024-06-18T13:49:35.882+0545] {processor.py:183} INFO - Processing /home/prabal/dags/backup.py took 0.117 seconds
+[2024-06-18T13:50:24.176+0545] {processor.py:161} INFO - Started process (PID=16511) to work on /home/prabal/dags/backup.py
+[2024-06-18T13:50:24.189+0545] {processor.py:830} INFO - Processing file /home/prabal/dags/backup.py for tasks to queue
+[2024-06-18T13:50:24.193+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:50:24.192+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/dags/backup.py
+[2024-06-18T13:50:24.218+0545] {processor.py:840} INFO - DAG(s) 'Backup_Database' retrieved from /home/prabal/dags/backup.py
+[2024-06-18T13:50:24.249+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:50:24.248+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T13:50:24.289+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:50:24.289+0545] {dag.py:3954} INFO - Setting next_dagrun for Backup_Database to 2024-06-18 08:00:00+00:00, run_after=2024-06-18 08:10:00+00:00
+[2024-06-18T13:50:24.313+0545] {processor.py:183} INFO - Processing /home/prabal/dags/backup.py took 0.151 seconds
+[2024-06-18T13:51:25.100+0545] {processor.py:161} INFO - Started process (PID=16807) to work on /home/prabal/dags/backup.py
+[2024-06-18T13:51:25.102+0545] {processor.py:830} INFO - Processing file /home/prabal/dags/backup.py for tasks to queue
+[2024-06-18T13:51:25.104+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:51:25.103+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/dags/backup.py
+[2024-06-18T13:51:25.121+0545] {processor.py:840} INFO - DAG(s) 'Backup_Database' retrieved from /home/prabal/dags/backup.py
+[2024-06-18T13:51:25.234+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:51:25.233+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T13:51:25.249+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:51:25.248+0545] {dag.py:3118} INFO - Creating ORM DAG for Backup_Database
+[2024-06-18T13:51:25.264+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:51:25.264+0545] {dag.py:3954} INFO - Setting next_dagrun for Backup_Database to 2024-06-18 07:50:00+00:00, run_after=2024-06-18 08:00:00+00:00
+[2024-06-18T13:51:25.304+0545] {processor.py:183} INFO - Processing /home/prabal/dags/backup.py took 0.214 seconds
+[2024-06-18T13:52:05.676+0545] {processor.py:161} INFO - Started process (PID=17043) to work on /home/prabal/dags/backup.py
+[2024-06-18T13:52:05.677+0545] {processor.py:830} INFO - Processing file /home/prabal/dags/backup.py for tasks to queue
+[2024-06-18T13:52:05.680+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:52:05.679+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/dags/backup.py
+[2024-06-18T13:52:05.695+0545] {processor.py:840} INFO - DAG(s) 'Backup_Database' retrieved from /home/prabal/dags/backup.py
+[2024-06-18T13:52:05.710+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:52:05.709+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T13:52:05.743+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:52:05.743+0545] {dag.py:3954} INFO - Setting next_dagrun for Backup_Database to 2024-06-18 08:00:00+00:00, run_after=2024-06-18 08:10:00+00:00
+[2024-06-18T13:52:05.782+0545] {processor.py:183} INFO - Processing /home/prabal/dags/backup.py took 0.120 seconds
+[2024-06-18T13:52:40.716+0545] {processor.py:161} INFO - Started process (PID=17222) to work on /home/prabal/dags/backup.py
+[2024-06-18T13:52:40.718+0545] {processor.py:830} INFO - Processing file /home/prabal/dags/backup.py for tasks to queue
+[2024-06-18T13:52:40.720+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:52:40.720+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/dags/backup.py
+[2024-06-18T13:52:40.744+0545] {processor.py:840} INFO - DAG(s) 'Backup_Database' retrieved from /home/prabal/dags/backup.py
+[2024-06-18T13:52:40.857+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:52:40.857+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T13:52:40.870+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:52:40.870+0545] {dag.py:3118} INFO - Creating ORM DAG for Backup_Database
+[2024-06-18T13:52:40.883+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:52:40.883+0545] {dag.py:3954} INFO - Setting next_dagrun for Backup_Database to 2024-06-18 07:50:00+00:00, run_after=2024-06-18 08:00:00+00:00
+[2024-06-18T13:52:40.914+0545] {processor.py:183} INFO - Processing /home/prabal/dags/backup.py took 0.208 seconds
+[2024-06-18T13:53:21.070+0545] {processor.py:161} INFO - Started process (PID=17440) to work on /home/prabal/dags/backup.py
+[2024-06-18T13:53:21.083+0545] {processor.py:830} INFO - Processing file /home/prabal/dags/backup.py for tasks to queue
+[2024-06-18T13:53:21.086+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:53:21.085+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/dags/backup.py
+[2024-06-18T13:53:21.103+0545] {processor.py:840} INFO - DAG(s) 'Backup_Database' retrieved from /home/prabal/dags/backup.py
+[2024-06-18T13:53:21.129+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:53:21.128+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T13:53:21.150+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:53:21.150+0545] {dag.py:3954} INFO - Setting next_dagrun for Backup_Database to 2024-06-18 08:00:00+00:00, run_after=2024-06-18 08:10:00+00:00
+[2024-06-18T13:53:21.177+0545] {processor.py:183} INFO - Processing /home/prabal/dags/backup.py took 0.118 seconds
+[2024-06-18T13:53:58.952+0545] {processor.py:161} INFO - Started process (PID=17624) to work on /home/prabal/dags/backup.py
+[2024-06-18T13:53:58.954+0545] {processor.py:830} INFO - Processing file /home/prabal/dags/backup.py for tasks to queue
+[2024-06-18T13:53:58.956+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:53:58.955+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/dags/backup.py
+[2024-06-18T13:53:58.974+0545] {processor.py:840} INFO - DAG(s) 'Backup_Database' retrieved from /home/prabal/dags/backup.py
+[2024-06-18T13:53:58.989+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:53:58.989+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T13:53:59.009+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:53:59.009+0545] {dag.py:3954} INFO - Setting next_dagrun for Backup_Database to 2024-06-18 08:00:00+00:00, run_after=2024-06-18 08:10:00+00:00
+[2024-06-18T13:53:59.026+0545] {processor.py:183} INFO - Processing /home/prabal/dags/backup.py took 0.085 seconds
+[2024-06-18T13:54:46.095+0545] {processor.py:161} INFO - Started process (PID=17854) to work on /home/prabal/dags/backup.py
+[2024-06-18T13:54:46.108+0545] {processor.py:830} INFO - Processing file /home/prabal/dags/backup.py for tasks to queue
+[2024-06-18T13:54:46.112+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:54:46.111+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/dags/backup.py
+[2024-06-18T13:54:46.139+0545] {processor.py:840} INFO - DAG(s) 'Backup_Database' retrieved from /home/prabal/dags/backup.py
+[2024-06-18T13:54:46.165+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:54:46.165+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T13:54:46.203+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:54:46.203+0545] {dag.py:3954} INFO - Setting next_dagrun for Backup_Database to 2024-06-18 08:00:00+00:00, run_after=2024-06-18 08:10:00+00:00
+[2024-06-18T13:54:46.224+0545] {processor.py:183} INFO - Processing /home/prabal/dags/backup.py took 0.143 seconds
+[2024-06-18T13:55:20.956+0545] {processor.py:161} INFO - Started process (PID=18045) to work on /home/prabal/dags/backup.py
+[2024-06-18T13:55:20.970+0545] {processor.py:830} INFO - Processing file /home/prabal/dags/backup.py for tasks to queue
+[2024-06-18T13:55:20.974+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:55:20.973+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/dags/backup.py
+[2024-06-18T13:55:21.000+0545] {processor.py:840} INFO - DAG(s) 'Backup_Database' retrieved from /home/prabal/dags/backup.py
+[2024-06-18T13:55:21.027+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:55:21.027+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T13:55:21.047+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:55:21.047+0545] {dag.py:3954} INFO - Setting next_dagrun for Backup_Database to 2024-06-18 08:10:00+00:00, run_after=2024-06-18 08:20:00+00:00
+[2024-06-18T13:55:21.065+0545] {processor.py:183} INFO - Processing /home/prabal/dags/backup.py took 0.123 seconds
+[2024-06-18T13:55:56.274+0545] {processor.py:161} INFO - Started process (PID=18215) to work on /home/prabal/dags/backup.py
+[2024-06-18T13:55:56.286+0545] {processor.py:830} INFO - Processing file /home/prabal/dags/backup.py for tasks to queue
+[2024-06-18T13:55:56.288+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:55:56.287+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/dags/backup.py
+[2024-06-18T13:55:56.303+0545] {processor.py:840} INFO - DAG(s) 'Backup_Database' retrieved from /home/prabal/dags/backup.py
+[2024-06-18T13:55:56.317+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:55:56.317+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T13:55:56.338+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:55:56.338+0545] {dag.py:3954} INFO - Setting next_dagrun for Backup_Database to 2024-06-18 08:10:00+00:00, run_after=2024-06-18 08:20:00+00:00
+[2024-06-18T13:55:56.356+0545] {processor.py:183} INFO - Processing /home/prabal/dags/backup.py took 0.088 seconds
+[2024-06-18T13:56:46.818+0545] {processor.py:161} INFO - Started process (PID=18461) to work on /home/prabal/dags/backup.py
+[2024-06-18T13:56:46.830+0545] {processor.py:830} INFO - Processing file /home/prabal/dags/backup.py for tasks to queue
+[2024-06-18T13:56:46.832+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:56:46.832+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/dags/backup.py
+[2024-06-18T13:56:46.845+0545] {processor.py:840} INFO - DAG(s) 'Backup_Database' retrieved from /home/prabal/dags/backup.py
+[2024-06-18T13:56:46.867+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:56:46.867+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T13:56:46.900+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:56:46.900+0545] {dag.py:3954} INFO - Setting next_dagrun for Backup_Database to 2024-06-18 08:10:00+00:00, run_after=2024-06-18 08:20:00+00:00
+[2024-06-18T13:56:46.924+0545] {processor.py:183} INFO - Processing /home/prabal/dags/backup.py took 0.120 seconds
+[2024-06-18T13:57:37.006+0545] {processor.py:161} INFO - Started process (PID=18705) to work on /home/prabal/dags/backup.py
+[2024-06-18T13:57:37.019+0545] {processor.py:830} INFO - Processing file /home/prabal/dags/backup.py for tasks to queue
+[2024-06-18T13:57:37.022+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:57:37.021+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/dags/backup.py
+[2024-06-18T13:57:37.038+0545] {processor.py:840} INFO - DAG(s) 'Backup_Database' retrieved from /home/prabal/dags/backup.py
+[2024-06-18T13:57:37.054+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:57:37.054+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T13:57:37.075+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:57:37.075+0545] {dag.py:3954} INFO - Setting next_dagrun for Backup_Database to 2024-06-18 08:10:00+00:00, run_after=2024-06-18 08:20:00+00:00
+[2024-06-18T13:57:37.095+0545] {processor.py:183} INFO - Processing /home/prabal/dags/backup.py took 0.105 seconds
+[2024-06-18T14:04:54.004+0545] {processor.py:161} INFO - Started process (PID=20569) to work on /home/prabal/dags/backup.py
+[2024-06-18T14:04:54.006+0545] {processor.py:830} INFO - Processing file /home/prabal/dags/backup.py for tasks to queue
+[2024-06-18T14:04:54.007+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:04:54.007+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/dags/backup.py
+[2024-06-18T14:04:54.024+0545] {processor.py:840} INFO - DAG(s) 'Backup_Database' retrieved from /home/prabal/dags/backup.py
+[2024-06-18T14:04:54.045+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:04:54.044+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:04:54.071+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:04:54.071+0545] {dag.py:3954} INFO - Setting next_dagrun for Backup_Database to 2024-06-18 08:10:00+00:00, run_after=2024-06-18 08:20:00+00:00
+[2024-06-18T14:04:54.090+0545] {processor.py:183} INFO - Processing /home/prabal/dags/backup.py took 0.091 seconds
+[2024-06-18T14:06:01.333+0545] {processor.py:161} INFO - Started process (PID=20947) to work on /home/prabal/dags/backup.py
+[2024-06-18T14:06:01.342+0545] {processor.py:830} INFO - Processing file /home/prabal/dags/backup.py for tasks to queue
+[2024-06-18T14:06:01.346+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:06:01.345+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/dags/backup.py
+[2024-06-18T14:06:01.368+0545] {processor.py:840} INFO - DAG(s) 'Backup_Database' retrieved from /home/prabal/dags/backup.py
+[2024-06-18T14:06:01.394+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:06:01.393+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:06:01.415+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:06:01.414+0545] {dag.py:3954} INFO - Setting next_dagrun for Backup_Database to 2024-06-18 08:20:00+00:00, run_after=2024-06-18 08:30:00+00:00
+[2024-06-18T14:06:01.448+0545] {processor.py:183} INFO - Processing /home/prabal/dags/backup.py took 0.129 seconds
+[2024-06-18T14:06:58.918+0545] {processor.py:161} INFO - Started process (PID=21221) to work on /home/prabal/dags/backup.py
+[2024-06-18T14:06:58.931+0545] {processor.py:830} INFO - Processing file /home/prabal/dags/backup.py for tasks to queue
+[2024-06-18T14:06:58.933+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:06:58.933+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/dags/backup.py
+[2024-06-18T14:06:58.947+0545] {processor.py:840} INFO - DAG(s) 'Backup_Database' retrieved from /home/prabal/dags/backup.py
+[2024-06-18T14:06:58.966+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:06:58.966+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:06:59.082+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:06:59.082+0545] {dag.py:3954} INFO - Setting next_dagrun for Backup_Database to 2024-06-18 08:20:00+00:00, run_after=2024-06-18 08:30:00+00:00
+[2024-06-18T14:06:59.109+0545] {processor.py:183} INFO - Processing /home/prabal/dags/backup.py took 0.202 seconds
+[2024-06-18T14:07:55.662+0545] {processor.py:161} INFO - Started process (PID=21506) to work on /home/prabal/dags/backup.py
+[2024-06-18T14:07:55.676+0545] {processor.py:830} INFO - Processing file /home/prabal/dags/backup.py for tasks to queue
+[2024-06-18T14:07:55.681+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:07:55.680+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/dags/backup.py
+[2024-06-18T14:07:55.705+0545] {processor.py:840} INFO - DAG(s) 'Backup_Database' retrieved from /home/prabal/dags/backup.py
+[2024-06-18T14:07:55.733+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:07:55.733+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:07:55.756+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:07:55.756+0545] {dag.py:3954} INFO - Setting next_dagrun for Backup_Database to 2024-06-18 08:20:00+00:00, run_after=2024-06-18 08:30:00+00:00
+[2024-06-18T14:07:55.782+0545] {processor.py:183} INFO - Processing /home/prabal/dags/backup.py took 0.133 seconds
+[2024-06-18T14:08:50.048+0545] {processor.py:161} INFO - Started process (PID=21766) to work on /home/prabal/dags/backup.py
+[2024-06-18T14:08:50.050+0545] {processor.py:830} INFO - Processing file /home/prabal/dags/backup.py for tasks to queue
+[2024-06-18T14:08:50.053+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:08:50.052+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/dags/backup.py
+[2024-06-18T14:08:50.076+0545] {processor.py:840} INFO - DAG(s) 'Backup_Database' retrieved from /home/prabal/dags/backup.py
+[2024-06-18T14:08:50.102+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:08:50.101+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:08:50.139+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:08:50.139+0545] {dag.py:3954} INFO - Setting next_dagrun for Backup_Database to 2024-06-18 08:20:00+00:00, run_after=2024-06-18 08:30:00+00:00
+[2024-06-18T14:08:50.191+0545] {processor.py:183} INFO - Processing /home/prabal/dags/backup.py took 0.156 seconds
+[2024-06-18T14:09:44.877+0545] {processor.py:161} INFO - Started process (PID=22030) to work on /home/prabal/dags/backup.py
+[2024-06-18T14:09:44.890+0545] {processor.py:830} INFO - Processing file /home/prabal/dags/backup.py for tasks to queue
+[2024-06-18T14:09:44.894+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:09:44.893+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/dags/backup.py
+[2024-06-18T14:09:44.920+0545] {processor.py:840} INFO - DAG(s) 'Backup_Database' retrieved from /home/prabal/dags/backup.py
+[2024-06-18T14:09:44.942+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:09:44.942+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:09:44.961+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:09:44.960+0545] {dag.py:3954} INFO - Setting next_dagrun for Backup_Database to 2024-06-18 08:20:00+00:00, run_after=2024-06-18 08:30:00+00:00
+[2024-06-18T14:09:44.980+0545] {processor.py:183} INFO - Processing /home/prabal/dags/backup.py took 0.118 seconds
+[2024-06-18T14:10:39.453+0545] {processor.py:161} INFO - Started process (PID=22291) to work on /home/prabal/dags/backup.py
+[2024-06-18T14:10:39.466+0545] {processor.py:830} INFO - Processing file /home/prabal/dags/backup.py for tasks to queue
+[2024-06-18T14:10:39.470+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:10:39.469+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/dags/backup.py
+[2024-06-18T14:10:39.497+0545] {processor.py:840} INFO - DAG(s) 'Backup_Database' retrieved from /home/prabal/dags/backup.py
+[2024-06-18T14:10:39.517+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:10:39.517+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:10:39.537+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:10:39.537+0545] {dag.py:3954} INFO - Setting next_dagrun for Backup_Database to 2024-06-18 08:20:00+00:00, run_after=2024-06-18 08:30:00+00:00
+[2024-06-18T14:10:39.556+0545] {processor.py:183} INFO - Processing /home/prabal/dags/backup.py took 0.117 seconds
+[2024-06-18T14:11:30.541+0545] {processor.py:161} INFO - Started process (PID=22539) to work on /home/prabal/dags/backup.py
+[2024-06-18T14:11:30.555+0545] {processor.py:830} INFO - Processing file /home/prabal/dags/backup.py for tasks to queue
+[2024-06-18T14:11:30.558+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:11:30.557+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/dags/backup.py
+[2024-06-18T14:11:30.584+0545] {processor.py:840} INFO - DAG(s) 'Backup_Database' retrieved from /home/prabal/dags/backup.py
+[2024-06-18T14:11:30.618+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:11:30.617+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:11:30.659+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:11:30.658+0545] {dag.py:3954} INFO - Setting next_dagrun for Backup_Database to 2024-06-18 08:20:00+00:00, run_after=2024-06-18 08:30:00+00:00
+[2024-06-18T14:11:30.697+0545] {processor.py:183} INFO - Processing /home/prabal/dags/backup.py took 0.171 seconds
+[2024-06-18T14:12:21.252+0545] {processor.py:161} INFO - Started process (PID=22783) to work on /home/prabal/dags/backup.py
+[2024-06-18T14:12:21.253+0545] {processor.py:830} INFO - Processing file /home/prabal/dags/backup.py for tasks to queue
+[2024-06-18T14:12:21.255+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:12:21.254+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/dags/backup.py
+[2024-06-18T14:12:21.271+0545] {processor.py:840} INFO - DAG(s) 'Backup_Database' retrieved from /home/prabal/dags/backup.py
+[2024-06-18T14:12:21.289+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:12:21.289+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:12:21.313+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:12:21.313+0545] {dag.py:3954} INFO - Setting next_dagrun for Backup_Database to 2024-06-18 08:20:00+00:00, run_after=2024-06-18 08:30:00+00:00
+[2024-06-18T14:12:21.338+0545] {processor.py:183} INFO - Processing /home/prabal/dags/backup.py took 0.094 seconds
+[2024-06-18T14:13:11.966+0545] {processor.py:161} INFO - Started process (PID=23027) to work on /home/prabal/dags/backup.py
+[2024-06-18T14:13:11.979+0545] {processor.py:830} INFO - Processing file /home/prabal/dags/backup.py for tasks to queue
+[2024-06-18T14:13:11.983+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:13:11.982+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/dags/backup.py
+[2024-06-18T14:13:12.010+0545] {processor.py:840} INFO - DAG(s) 'Backup_Database' retrieved from /home/prabal/dags/backup.py
+[2024-06-18T14:13:12.040+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:13:12.040+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:13:12.061+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:13:12.061+0545] {dag.py:3954} INFO - Setting next_dagrun for Backup_Database to 2024-06-18 08:20:00+00:00, run_after=2024-06-18 08:30:00+00:00
+[2024-06-18T14:13:12.079+0545] {processor.py:183} INFO - Processing /home/prabal/dags/backup.py took 0.125 seconds
+[2024-06-18T14:14:04.675+0545] {processor.py:161} INFO - Started process (PID=23282) to work on /home/prabal/dags/backup.py
+[2024-06-18T14:14:04.689+0545] {processor.py:830} INFO - Processing file /home/prabal/dags/backup.py for tasks to queue
+[2024-06-18T14:14:04.693+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:14:04.692+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/dags/backup.py
+[2024-06-18T14:14:04.714+0545] {processor.py:840} INFO - DAG(s) 'Backup_Database' retrieved from /home/prabal/dags/backup.py
+[2024-06-18T14:14:04.732+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:14:04.731+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:14:04.777+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:14:04.777+0545] {dag.py:3954} INFO - Setting next_dagrun for Backup_Database to 2024-06-18 08:20:00+00:00, run_after=2024-06-18 08:30:00+00:00
+[2024-06-18T14:14:04.808+0545] {processor.py:183} INFO - Processing /home/prabal/dags/backup.py took 0.151 seconds
+[2024-06-18T14:14:54.978+0545] {processor.py:161} INFO - Started process (PID=23526) to work on /home/prabal/dags/backup.py
+[2024-06-18T14:14:54.991+0545] {processor.py:830} INFO - Processing file /home/prabal/dags/backup.py for tasks to queue
+[2024-06-18T14:14:54.993+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:14:54.993+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/dags/backup.py
+[2024-06-18T14:14:55.017+0545] {processor.py:840} INFO - DAG(s) 'Backup_Database' retrieved from /home/prabal/dags/backup.py
+[2024-06-18T14:14:55.049+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:14:55.049+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:14:55.071+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:14:55.071+0545] {dag.py:3954} INFO - Setting next_dagrun for Backup_Database to 2024-06-18 08:20:00+00:00, run_after=2024-06-18 08:30:00+00:00
+[2024-06-18T14:14:55.089+0545] {processor.py:183} INFO - Processing /home/prabal/dags/backup.py took 0.126 seconds
+[2024-06-18T14:15:29.381+0545] {processor.py:161} INFO - Started process (PID=23714) to work on /home/prabal/dags/backup.py
+[2024-06-18T14:15:29.395+0545] {processor.py:830} INFO - Processing file /home/prabal/dags/backup.py for tasks to queue
+[2024-06-18T14:15:29.398+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:15:29.397+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/dags/backup.py
+[2024-06-18T14:15:29.422+0545] {processor.py:840} INFO - DAG(s) 'Backup_Database' retrieved from /home/prabal/dags/backup.py
+[2024-06-18T14:15:29.439+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:15:29.439+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:15:29.458+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:15:29.458+0545] {dag.py:3954} INFO - Setting next_dagrun for Backup_Database to 2024-06-18 08:30:00+00:00, run_after=2024-06-18 08:40:00+00:00
+[2024-06-18T14:15:29.476+0545] {processor.py:183} INFO - Processing /home/prabal/dags/backup.py took 0.108 seconds
+[2024-06-18T14:16:05.679+0545] {processor.py:161} INFO - Started process (PID=23889) to work on /home/prabal/dags/backup.py
+[2024-06-18T14:16:05.693+0545] {processor.py:830} INFO - Processing file /home/prabal/dags/backup.py for tasks to queue
+[2024-06-18T14:16:05.696+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:16:05.695+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/dags/backup.py
+[2024-06-18T14:16:05.723+0545] {processor.py:840} INFO - DAG(s) 'Backup_Database' retrieved from /home/prabal/dags/backup.py
+[2024-06-18T14:16:05.751+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:16:05.751+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:16:05.788+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:16:05.787+0545] {dag.py:3954} INFO - Setting next_dagrun for Backup_Database to 2024-06-18 08:30:00+00:00, run_after=2024-06-18 08:40:00+00:00
+[2024-06-18T14:16:05.837+0545] {processor.py:183} INFO - Processing /home/prabal/dags/backup.py took 0.172 seconds
+[2024-06-18T14:16:59.765+0545] {processor.py:161} INFO - Started process (PID=24148) to work on /home/prabal/dags/backup.py
+[2024-06-18T14:16:59.778+0545] {processor.py:830} INFO - Processing file /home/prabal/dags/backup.py for tasks to queue
+[2024-06-18T14:16:59.781+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:16:59.781+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/dags/backup.py
+[2024-06-18T14:16:59.800+0545] {processor.py:840} INFO - DAG(s) 'Backup_Database' retrieved from /home/prabal/dags/backup.py
+[2024-06-18T14:16:59.824+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:16:59.824+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:16:59.854+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:16:59.854+0545] {dag.py:3954} INFO - Setting next_dagrun for Backup_Database to 2024-06-18 08:30:00+00:00, run_after=2024-06-18 08:40:00+00:00
+[2024-06-18T14:16:59.886+0545] {processor.py:183} INFO - Processing /home/prabal/dags/backup.py took 0.135 seconds
+[2024-06-18T14:17:54.637+0545] {processor.py:161} INFO - Started process (PID=24412) to work on /home/prabal/dags/backup.py
+[2024-06-18T14:17:54.650+0545] {processor.py:830} INFO - Processing file /home/prabal/dags/backup.py for tasks to queue
+[2024-06-18T14:17:54.654+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:17:54.653+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/dags/backup.py
+[2024-06-18T14:17:54.675+0545] {processor.py:840} INFO - DAG(s) 'Backup_Database' retrieved from /home/prabal/dags/backup.py
+[2024-06-18T14:17:54.689+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:17:54.688+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:17:54.709+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:17:54.709+0545] {dag.py:3954} INFO - Setting next_dagrun for Backup_Database to 2024-06-18 08:30:00+00:00, run_after=2024-06-18 08:40:00+00:00
+[2024-06-18T14:17:54.729+0545] {processor.py:183} INFO - Processing /home/prabal/dags/backup.py took 0.106 seconds
+[2024-06-18T14:18:49.488+0545] {processor.py:161} INFO - Started process (PID=24677) to work on /home/prabal/dags/backup.py
+[2024-06-18T14:18:49.501+0545] {processor.py:830} INFO - Processing file /home/prabal/dags/backup.py for tasks to queue
+[2024-06-18T14:18:49.503+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:18:49.503+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/dags/backup.py
+[2024-06-18T14:18:49.528+0545] {processor.py:840} INFO - DAG(s) 'Backup_Database' retrieved from /home/prabal/dags/backup.py
+[2024-06-18T14:18:49.563+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:18:49.562+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:18:49.596+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:18:49.596+0545] {dag.py:3954} INFO - Setting next_dagrun for Backup_Database to 2024-06-18 08:30:00+00:00, run_after=2024-06-18 08:40:00+00:00
+[2024-06-18T14:18:49.628+0545] {processor.py:183} INFO - Processing /home/prabal/dags/backup.py took 0.155 seconds
+[2024-06-18T14:19:46.041+0545] {processor.py:161} INFO - Started process (PID=24946) to work on /home/prabal/dags/backup.py
+[2024-06-18T14:19:46.059+0545] {processor.py:830} INFO - Processing file /home/prabal/dags/backup.py for tasks to queue
+[2024-06-18T14:19:46.069+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:19:46.067+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/dags/backup.py
+[2024-06-18T14:19:46.102+0545] {processor.py:840} INFO - DAG(s) 'Backup_Database' retrieved from /home/prabal/dags/backup.py
+[2024-06-18T14:19:46.132+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:19:46.131+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:19:46.152+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:19:46.152+0545] {dag.py:3954} INFO - Setting next_dagrun for Backup_Database to 2024-06-18 08:30:00+00:00, run_after=2024-06-18 08:40:00+00:00
+[2024-06-18T14:19:46.205+0545] {processor.py:183} INFO - Processing /home/prabal/dags/backup.py took 0.180 seconds
+[2024-06-18T14:20:36.827+0545] {processor.py:161} INFO - Started process (PID=25192) to work on /home/prabal/dags/backup.py
+[2024-06-18T14:20:36.840+0545] {processor.py:830} INFO - Processing file /home/prabal/dags/backup.py for tasks to queue
+[2024-06-18T14:20:36.843+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:20:36.843+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/dags/backup.py
+[2024-06-18T14:20:36.871+0545] {processor.py:840} INFO - DAG(s) 'Backup_Database' retrieved from /home/prabal/dags/backup.py
+[2024-06-18T14:20:36.898+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:20:36.898+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:20:36.919+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:20:36.919+0545] {dag.py:3954} INFO - Setting next_dagrun for Backup_Database to 2024-06-18 08:30:00+00:00, run_after=2024-06-18 08:40:00+00:00
+[2024-06-18T14:20:36.939+0545] {processor.py:183} INFO - Processing /home/prabal/dags/backup.py took 0.127 seconds
+[2024-06-18T14:21:29.207+0545] {processor.py:161} INFO - Started process (PID=25442) to work on /home/prabal/dags/backup.py
+[2024-06-18T14:21:29.221+0545] {processor.py:830} INFO - Processing file /home/prabal/dags/backup.py for tasks to queue
+[2024-06-18T14:21:29.225+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:21:29.224+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/dags/backup.py
+[2024-06-18T14:21:29.252+0545] {processor.py:840} INFO - DAG(s) 'Backup_Database' retrieved from /home/prabal/dags/backup.py
+[2024-06-18T14:21:29.284+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:21:29.284+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:21:29.308+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:21:29.307+0545] {dag.py:3954} INFO - Setting next_dagrun for Backup_Database to 2024-06-18 08:30:00+00:00, run_after=2024-06-18 08:40:00+00:00
+[2024-06-18T14:21:29.326+0545] {processor.py:183} INFO - Processing /home/prabal/dags/backup.py took 0.133 seconds
+[2024-06-18T14:22:25.100+0545] {processor.py:161} INFO - Started process (PID=25710) to work on /home/prabal/dags/backup.py
+[2024-06-18T14:22:25.113+0545] {processor.py:830} INFO - Processing file /home/prabal/dags/backup.py for tasks to queue
+[2024-06-18T14:22:25.118+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:22:25.117+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/dags/backup.py
+[2024-06-18T14:22:25.134+0545] {processor.py:840} INFO - DAG(s) 'Backup_Database' retrieved from /home/prabal/dags/backup.py
+[2024-06-18T14:22:25.150+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:22:25.149+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:22:25.171+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:22:25.170+0545] {dag.py:3954} INFO - Setting next_dagrun for Backup_Database to 2024-06-18 08:30:00+00:00, run_after=2024-06-18 08:40:00+00:00
+[2024-06-18T14:22:25.191+0545] {processor.py:183} INFO - Processing /home/prabal/dags/backup.py took 0.106 seconds
+[2024-06-18T14:23:18.615+0545] {processor.py:161} INFO - Started process (PID=25970) to work on /home/prabal/dags/backup.py
+[2024-06-18T14:23:18.628+0545] {processor.py:830} INFO - Processing file /home/prabal/dags/backup.py for tasks to queue
+[2024-06-18T14:23:18.632+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:23:18.631+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/dags/backup.py
+[2024-06-18T14:23:18.653+0545] {processor.py:840} INFO - DAG(s) 'Backup_Database' retrieved from /home/prabal/dags/backup.py
+[2024-06-18T14:23:18.670+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:23:18.670+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:23:18.689+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:23:18.689+0545] {dag.py:3954} INFO - Setting next_dagrun for Backup_Database to 2024-06-18 08:30:00+00:00, run_after=2024-06-18 08:40:00+00:00
+[2024-06-18T14:23:18.707+0545] {processor.py:183} INFO - Processing /home/prabal/dags/backup.py took 0.108 seconds
+[2024-06-18T14:24:10.982+0545] {processor.py:161} INFO - Started process (PID=26226) to work on /home/prabal/dags/backup.py
+[2024-06-18T14:24:10.995+0545] {processor.py:830} INFO - Processing file /home/prabal/dags/backup.py for tasks to queue
+[2024-06-18T14:24:10.999+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:24:10.998+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/dags/backup.py
+[2024-06-18T14:24:11.023+0545] {processor.py:840} INFO - DAG(s) 'Backup_Database' retrieved from /home/prabal/dags/backup.py
+[2024-06-18T14:24:11.052+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:24:11.052+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:24:11.072+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:24:11.072+0545] {dag.py:3954} INFO - Setting next_dagrun for Backup_Database to 2024-06-18 08:30:00+00:00, run_after=2024-06-18 08:40:00+00:00
+[2024-06-18T14:24:11.090+0545] {processor.py:183} INFO - Processing /home/prabal/dags/backup.py took 0.120 seconds
+[2024-06-18T17:15:34.404+0545] {processor.py:161} INFO - Started process (PID=3988) to work on /home/prabal/dags/backup.py
+[2024-06-18T17:15:34.407+0545] {processor.py:830} INFO - Processing file /home/prabal/dags/backup.py for tasks to queue
+[2024-06-18T17:15:34.410+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:15:34.409+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/dags/backup.py
+[2024-06-18T17:15:34.428+0545] {processor.py:840} INFO - DAG(s) 'database_backup' retrieved from /home/prabal/dags/backup.py
+[2024-06-18T17:15:34.438+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:15:34.437+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T17:15:34.466+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:15:34.466+0545] {dag.py:3954} INFO - Setting next_dagrun for database_backup to 2024-06-18 11:20:00+00:00, run_after=2024-06-18 11:30:00+00:00
+[2024-06-18T17:15:34.484+0545] {processor.py:183} INFO - Processing /home/prabal/dags/backup.py took 0.089 seconds
+[2024-06-18T17:17:16.854+0545] {processor.py:161} INFO - Started process (PID=4562) to work on /home/prabal/dags/backup.py
+[2024-06-18T17:17:16.868+0545] {processor.py:830} INFO - Processing file /home/prabal/dags/backup.py for tasks to queue
+[2024-06-18T17:17:16.870+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:17:16.869+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/dags/backup.py
+[2024-06-18T17:17:16.897+0545] {processor.py:840} INFO - DAG(s) 'database_backup' retrieved from /home/prabal/dags/backup.py
+[2024-06-18T17:17:17.032+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:17:17.032+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T17:17:17.135+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:17:17.135+0545] {dag.py:3954} INFO - Setting next_dagrun for database_backup to 2024-06-18 11:30:00+00:00, run_after=2024-06-18 11:40:00+00:00
+[2024-06-18T17:17:17.164+0545] {processor.py:183} INFO - Processing /home/prabal/dags/backup.py took 0.323 seconds
+[2024-06-18T17:17:51.010+0545] {processor.py:161} INFO - Started process (PID=4723) to work on /home/prabal/dags/backup.py
+[2024-06-18T17:17:51.013+0545] {processor.py:830} INFO - Processing file /home/prabal/dags/backup.py for tasks to queue
+[2024-06-18T17:17:51.015+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:17:51.014+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/dags/backup.py
+[2024-06-18T17:17:51.039+0545] {processor.py:840} INFO - DAG(s) 'database_backup' retrieved from /home/prabal/dags/backup.py
+[2024-06-18T17:17:51.060+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:17:51.060+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T17:17:51.088+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:17:51.087+0545] {dag.py:3954} INFO - Setting next_dagrun for database_backup to 2024-06-18 11:30:00+00:00, run_after=2024-06-18 11:40:00+00:00
+[2024-06-18T17:17:51.121+0545] {processor.py:183} INFO - Processing /home/prabal/dags/backup.py took 0.124 seconds
+[2024-06-18T17:18:21.498+0545] {processor.py:161} INFO - Started process (PID=4927) to work on /home/prabal/dags/backup.py
+[2024-06-18T17:18:21.508+0545] {processor.py:830} INFO - Processing file /home/prabal/dags/backup.py for tasks to queue
+[2024-06-18T17:18:21.511+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:18:21.510+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/dags/backup.py
+[2024-06-18T17:18:21.538+0545] {processor.py:840} INFO - DAG(s) 'database_backup' retrieved from /home/prabal/dags/backup.py
+[2024-06-18T17:18:21.575+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:18:21.575+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T17:18:21.620+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:18:21.620+0545] {dag.py:3954} INFO - Setting next_dagrun for database_backup to 2024-06-18 11:30:00+00:00, run_after=2024-06-18 11:40:00+00:00
+[2024-06-18T17:18:21.809+0545] {processor.py:183} INFO - Processing /home/prabal/dags/backup.py took 0.329 seconds
+[2024-06-18T17:19:21.422+0545] {processor.py:161} INFO - Started process (PID=5579) to work on /home/prabal/dags/backup.py
+[2024-06-18T17:19:21.435+0545] {processor.py:830} INFO - Processing file /home/prabal/dags/backup.py for tasks to queue
+[2024-06-18T17:19:21.437+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:19:21.437+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/dags/backup.py
+[2024-06-18T17:19:21.462+0545] {processor.py:840} INFO - DAG(s) 'database_backup' retrieved from /home/prabal/dags/backup.py
+[2024-06-18T17:19:21.490+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:19:21.489+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T17:19:21.523+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:19:21.523+0545] {dag.py:3954} INFO - Setting next_dagrun for database_backup to 2024-06-18 11:30:00+00:00, run_after=2024-06-18 11:40:00+00:00
+[2024-06-18T17:19:21.561+0545] {processor.py:183} INFO - Processing /home/prabal/dags/backup.py took 0.152 seconds
+[2024-06-18T17:20:15.030+0545] {processor.py:161} INFO - Started process (PID=6279) to work on /home/prabal/dags/backup.py
+[2024-06-18T17:20:15.037+0545] {processor.py:830} INFO - Processing file /home/prabal/dags/backup.py for tasks to queue
+[2024-06-18T17:20:15.040+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:20:15.039+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/dags/backup.py
+[2024-06-18T17:20:15.079+0545] {processor.py:840} INFO - DAG(s) 'database_backup' retrieved from /home/prabal/dags/backup.py
+[2024-06-18T17:20:15.110+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:20:15.110+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T17:20:15.160+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:20:15.159+0545] {dag.py:3954} INFO - Setting next_dagrun for database_backup to 2024-06-18 11:30:00+00:00, run_after=2024-06-18 11:40:00+00:00
+[2024-06-18T17:20:15.221+0545] {processor.py:183} INFO - Processing /home/prabal/dags/backup.py took 0.210 seconds
+[2024-06-18T17:21:45.937+0545] {processor.py:161} INFO - Started process (PID=6921) to work on /home/prabal/dags/backup.py
+[2024-06-18T17:21:45.939+0545] {processor.py:830} INFO - Processing file /home/prabal/dags/backup.py for tasks to queue
+[2024-06-18T17:21:45.941+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:21:45.940+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/dags/backup.py
+[2024-06-18T17:21:45.961+0545] {processor.py:840} INFO - DAG(s) 'database_backup' retrieved from /home/prabal/dags/backup.py
+[2024-06-18T17:21:45.970+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:21:45.970+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T17:21:46.003+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:21:46.003+0545] {dag.py:3954} INFO - Setting next_dagrun for database_backup to 2024-06-18 11:30:00+00:00, run_after=2024-06-18 11:40:00+00:00
+[2024-06-18T17:21:46.026+0545] {processor.py:183} INFO - Processing /home/prabal/dags/backup.py took 0.097 seconds
+[2024-06-18T17:22:51.359+0545] {processor.py:161} INFO - Started process (PID=7273) to work on /home/prabal/dags/backup.py
+[2024-06-18T17:22:51.371+0545] {processor.py:830} INFO - Processing file /home/prabal/dags/backup.py for tasks to queue
+[2024-06-18T17:22:51.373+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:22:51.372+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/dags/backup.py
+[2024-06-18T17:22:51.383+0545] {processor.py:840} INFO - DAG(s) 'database_backup' retrieved from /home/prabal/dags/backup.py
+[2024-06-18T17:22:51.591+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:22:51.591+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T17:22:51.614+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:22:51.614+0545] {dag.py:3954} INFO - Setting next_dagrun for database_backup to 2024-06-18 11:30:00+00:00, run_after=2024-06-18 11:40:00+00:00
+[2024-06-18T17:22:51.652+0545] {processor.py:183} INFO - Processing /home/prabal/dags/backup.py took 0.298 seconds
+[2024-06-18T17:23:35.020+0545] {processor.py:161} INFO - Started process (PID=7485) to work on /home/prabal/dags/backup.py
+[2024-06-18T17:23:35.032+0545] {processor.py:830} INFO - Processing file /home/prabal/dags/backup.py for tasks to queue
+[2024-06-18T17:23:35.035+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:23:35.034+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/dags/backup.py
+[2024-06-18T17:23:35.055+0545] {processor.py:840} INFO - DAG(s) 'database_backup' retrieved from /home/prabal/dags/backup.py
+[2024-06-18T17:23:35.074+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:23:35.073+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T17:23:35.091+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:23:35.090+0545] {dag.py:3954} INFO - Setting next_dagrun for database_backup to 2024-06-18 11:30:00+00:00, run_after=2024-06-18 11:40:00+00:00
+[2024-06-18T17:23:35.185+0545] {processor.py:183} INFO - Processing /home/prabal/dags/backup.py took 0.176 seconds

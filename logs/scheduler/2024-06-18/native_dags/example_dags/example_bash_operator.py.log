@@ -1,0 +1,298 @@
+[2024-06-18T13:42:49.641+0545] {processor.py:161} INFO - Started process (PID=14282) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T13:42:49.643+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2024-06-18T13:42:49.647+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:42:49.646+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T13:42:49.667+0545] {processor.py:840} INFO - DAG(s) 'example_bash_operator' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T13:42:49.773+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:42:49.772+0545] {override.py:1829} INFO - Created Permission View: can read on DAG:example_bash_operator
+[2024-06-18T13:42:49.782+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:42:49.782+0545] {override.py:1829} INFO - Created Permission View: can edit on DAG:example_bash_operator
+[2024-06-18T13:42:49.788+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:42:49.788+0545] {override.py:1829} INFO - Created Permission View: can delete on DAG:example_bash_operator
+[2024-06-18T13:42:49.789+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:42:49.789+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T13:42:49.892+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:42:49.892+0545] {dag.py:3118} INFO - Creating ORM DAG for example_bash_operator
+[2024-06-18T13:42:49.904+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:42:49.903+0545] {dag.py:3954} INFO - Setting next_dagrun for example_bash_operator to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T13:42:49.938+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.312 seconds
+[2024-06-18T13:43:47.688+0545] {processor.py:161} INFO - Started process (PID=14575) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T13:43:47.701+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2024-06-18T13:43:47.705+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:43:47.704+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T13:43:47.725+0545] {processor.py:840} INFO - DAG(s) 'example_bash_operator' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T13:43:47.761+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:43:47.760+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T13:43:47.790+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:43:47.790+0545] {dag.py:3954} INFO - Setting next_dagrun for example_bash_operator to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T13:43:47.924+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.250 seconds
+[2024-06-18T13:44:51.560+0545] {processor.py:161} INFO - Started process (PID=14881) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T13:44:51.562+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2024-06-18T13:44:51.564+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:44:51.564+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T13:44:51.585+0545] {processor.py:840} INFO - DAG(s) 'example_bash_operator' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T13:44:51.648+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:44:51.648+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T13:44:51.696+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:44:51.695+0545] {dag.py:3954} INFO - Setting next_dagrun for example_bash_operator to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T13:44:51.731+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.181 seconds
+[2024-06-18T13:45:48.636+0545] {processor.py:161} INFO - Started process (PID=15154) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T13:45:48.648+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2024-06-18T13:45:48.650+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:45:48.650+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T13:45:48.668+0545] {processor.py:840} INFO - DAG(s) 'example_bash_operator' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T13:45:48.709+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:45:48.708+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T13:45:48.734+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:45:48.733+0545] {dag.py:3954} INFO - Setting next_dagrun for example_bash_operator to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T13:45:48.769+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.144 seconds
+[2024-06-18T13:46:42.110+0545] {processor.py:161} INFO - Started process (PID=15415) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T13:46:42.123+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2024-06-18T13:46:42.127+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:46:42.126+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T13:46:42.147+0545] {processor.py:840} INFO - DAG(s) 'example_bash_operator' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T13:46:42.169+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:46:42.168+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T13:46:42.192+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:46:42.192+0545] {dag.py:3954} INFO - Setting next_dagrun for example_bash_operator to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T13:46:42.212+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.117 seconds
+[2024-06-18T13:47:34.094+0545] {processor.py:161} INFO - Started process (PID=15666) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T13:47:34.109+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2024-06-18T13:47:34.111+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:47:34.111+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T13:47:34.122+0545] {processor.py:840} INFO - DAG(s) 'example_bash_operator' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T13:47:34.144+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:47:34.144+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T13:47:34.165+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:47:34.165+0545] {dag.py:3954} INFO - Setting next_dagrun for example_bash_operator to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T13:47:34.188+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.103 seconds
+[2024-06-18T13:48:26.025+0545] {processor.py:161} INFO - Started process (PID=15921) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T13:48:26.038+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2024-06-18T13:48:26.042+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:48:26.041+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T13:48:26.064+0545] {processor.py:840} INFO - DAG(s) 'example_bash_operator' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T13:48:26.087+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:48:26.086+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T13:48:26.105+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:48:26.104+0545] {dag.py:3954} INFO - Setting next_dagrun for example_bash_operator to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T13:48:26.125+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.115 seconds
+[2024-06-18T13:50:10.912+0545] {processor.py:161} INFO - Started process (PID=16445) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T13:50:10.925+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2024-06-18T13:50:10.928+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:50:10.928+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T13:50:10.954+0545] {processor.py:840} INFO - DAG(s) 'example_bash_operator' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T13:50:11.008+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:50:11.008+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T13:50:11.035+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:50:11.035+0545] {dag.py:3954} INFO - Setting next_dagrun for example_bash_operator to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T13:50:11.075+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.178 seconds
+[2024-06-18T13:51:55.158+0545] {processor.py:161} INFO - Started process (PID=16976) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T13:51:55.164+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2024-06-18T13:51:55.167+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:51:55.166+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T13:51:55.192+0545] {processor.py:840} INFO - DAG(s) 'example_bash_operator' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T13:51:55.234+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:51:55.233+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T13:51:55.254+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:51:55.254+0545] {dag.py:3954} INFO - Setting next_dagrun for example_bash_operator to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T13:51:55.282+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.139 seconds
+[2024-06-18T13:53:08.268+0545] {processor.py:161} INFO - Started process (PID=17380) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T13:53:08.270+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2024-06-18T13:53:08.272+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:53:08.272+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T13:53:08.288+0545] {processor.py:840} INFO - DAG(s) 'example_bash_operator' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T13:53:08.316+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:53:08.316+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T13:53:08.345+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:53:08.345+0545] {dag.py:3954} INFO - Setting next_dagrun for example_bash_operator to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T13:53:08.375+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.118 seconds
+[2024-06-18T13:54:10.849+0545] {processor.py:161} INFO - Started process (PID=17683) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T13:54:10.862+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2024-06-18T13:54:10.865+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:54:10.864+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T13:54:10.884+0545] {processor.py:840} INFO - DAG(s) 'example_bash_operator' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T13:54:10.906+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:54:10.906+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T13:54:10.928+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:54:10.927+0545] {dag.py:3954} INFO - Setting next_dagrun for example_bash_operator to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T13:54:10.959+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.117 seconds
+[2024-06-18T13:55:01.859+0545] {processor.py:161} INFO - Started process (PID=17930) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T13:55:01.872+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2024-06-18T13:55:01.876+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:55:01.875+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T13:55:01.895+0545] {processor.py:840} INFO - DAG(s) 'example_bash_operator' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T13:55:01.919+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:55:01.918+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T13:55:01.947+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:55:01.947+0545] {dag.py:3954} INFO - Setting next_dagrun for example_bash_operator to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T13:55:01.987+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.142 seconds
+[2024-06-18T13:56:11.851+0545] {processor.py:161} INFO - Started process (PID=18291) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T13:56:11.864+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2024-06-18T13:56:11.868+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:56:11.867+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T13:56:11.895+0545] {processor.py:840} INFO - DAG(s) 'example_bash_operator' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T13:56:11.926+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:56:11.925+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T13:56:11.960+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:56:11.960+0545] {dag.py:3954} INFO - Setting next_dagrun for example_bash_operator to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T13:56:12.011+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.174 seconds
+[2024-06-18T13:57:03.720+0545] {processor.py:161} INFO - Started process (PID=18541) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T13:57:03.734+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2024-06-18T13:57:03.737+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:57:03.736+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T13:57:03.765+0545] {processor.py:840} INFO - DAG(s) 'example_bash_operator' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T13:57:03.811+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:57:03.811+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T13:57:03.830+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:57:03.830+0545] {dag.py:3954} INFO - Setting next_dagrun for example_bash_operator to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T13:57:03.861+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.154 seconds
+[2024-06-18T13:57:54.667+0545] {processor.py:161} INFO - Started process (PID=18792) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T13:57:54.679+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2024-06-18T13:57:54.681+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:57:54.681+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T13:57:54.707+0545] {processor.py:840} INFO - DAG(s) 'example_bash_operator' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T13:57:54.751+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:57:54.751+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T13:57:54.798+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:57:54.797+0545] {dag.py:3954} INFO - Setting next_dagrun for example_bash_operator to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T13:57:54.846+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.186 seconds
+[2024-06-18T14:05:43.525+0545] {processor.py:161} INFO - Started process (PID=20863) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T14:05:43.527+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2024-06-18T14:05:43.530+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:05:43.530+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T14:05:43.545+0545] {processor.py:840} INFO - DAG(s) 'example_bash_operator' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T14:05:43.567+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:05:43.566+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:05:43.587+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:05:43.587+0545] {dag.py:3954} INFO - Setting next_dagrun for example_bash_operator to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T14:05:43.603+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.094 seconds
+[2024-06-18T14:06:41.774+0545] {processor.py:161} INFO - Started process (PID=21140) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T14:06:41.787+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2024-06-18T14:06:41.790+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:06:41.789+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T14:06:41.812+0545] {processor.py:840} INFO - DAG(s) 'example_bash_operator' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T14:06:41.836+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:06:41.836+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:06:41.854+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:06:41.853+0545] {dag.py:3954} INFO - Setting next_dagrun for example_bash_operator to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T14:06:41.970+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.212 seconds
+[2024-06-18T14:07:39.954+0545] {processor.py:161} INFO - Started process (PID=21431) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T14:07:39.956+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2024-06-18T14:07:39.958+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:07:39.957+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T14:07:39.982+0545] {processor.py:840} INFO - DAG(s) 'example_bash_operator' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T14:07:40.018+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:07:40.018+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:07:40.047+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:07:40.046+0545] {dag.py:3954} INFO - Setting next_dagrun for example_bash_operator to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T14:07:40.075+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.130 seconds
+[2024-06-18T14:08:37.221+0545] {processor.py:161} INFO - Started process (PID=21704) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T14:08:37.235+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2024-06-18T14:08:37.239+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:08:37.238+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T14:08:37.272+0545] {processor.py:840} INFO - DAG(s) 'example_bash_operator' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T14:08:37.324+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:08:37.323+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:08:37.356+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:08:37.356+0545] {dag.py:3954} INFO - Setting next_dagrun for example_bash_operator to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T14:08:37.389+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.182 seconds
+[2024-06-18T14:09:32.158+0545] {processor.py:161} INFO - Started process (PID=21970) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T14:09:32.171+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2024-06-18T14:09:32.174+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:09:32.174+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T14:09:32.197+0545] {processor.py:840} INFO - DAG(s) 'example_bash_operator' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T14:09:32.219+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:09:32.219+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:09:32.240+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:09:32.239+0545] {dag.py:3954} INFO - Setting next_dagrun for example_bash_operator to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T14:09:32.264+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.121 seconds
+[2024-06-18T14:10:27.626+0545] {processor.py:161} INFO - Started process (PID=22234) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T14:10:27.628+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2024-06-18T14:10:27.632+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:10:27.631+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T14:10:27.654+0545] {processor.py:840} INFO - DAG(s) 'example_bash_operator' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T14:10:27.695+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:10:27.694+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:10:27.719+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:10:27.719+0545] {dag.py:3954} INFO - Setting next_dagrun for example_bash_operator to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T14:10:27.738+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.127 seconds
+[2024-06-18T14:11:19.093+0545] {processor.py:161} INFO - Started process (PID=22483) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T14:11:19.095+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2024-06-18T14:11:19.097+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:11:19.097+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T14:11:19.124+0545] {processor.py:840} INFO - DAG(s) 'example_bash_operator' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T14:11:19.155+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:11:19.154+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:11:19.172+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:11:19.172+0545] {dag.py:3954} INFO - Setting next_dagrun for example_bash_operator to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T14:11:19.191+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.109 seconds
+[2024-06-18T14:12:12.184+0545] {processor.py:161} INFO - Started process (PID=22740) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T14:12:12.186+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2024-06-18T14:12:12.190+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:12:12.190+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T14:12:12.203+0545] {processor.py:840} INFO - DAG(s) 'example_bash_operator' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T14:12:12.226+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:12:12.225+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:12:12.269+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:12:12.268+0545] {dag.py:3954} INFO - Setting next_dagrun for example_bash_operator to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T14:12:12.315+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.145 seconds
+[2024-06-18T14:13:03.200+0545] {processor.py:161} INFO - Started process (PID=22987) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T14:13:03.202+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2024-06-18T14:13:03.206+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:13:03.205+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T14:13:03.223+0545] {processor.py:840} INFO - DAG(s) 'example_bash_operator' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T14:13:03.249+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:13:03.249+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:13:03.267+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:13:03.267+0545] {dag.py:3954} INFO - Setting next_dagrun for example_bash_operator to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T14:13:03.289+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.104 seconds
+[2024-06-18T14:13:55.467+0545] {processor.py:161} INFO - Started process (PID=23239) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T14:13:55.480+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2024-06-18T14:13:55.484+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:13:55.483+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T14:13:55.509+0545] {processor.py:840} INFO - DAG(s) 'example_bash_operator' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T14:13:55.534+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:13:55.534+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:13:55.563+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:13:55.563+0545] {dag.py:3954} INFO - Setting next_dagrun for example_bash_operator to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T14:13:55.589+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.136 seconds
+[2024-06-18T14:14:47.834+0545] {processor.py:161} INFO - Started process (PID=23491) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T14:14:47.848+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2024-06-18T14:14:47.850+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:14:47.849+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T14:14:47.876+0545] {processor.py:840} INFO - DAG(s) 'example_bash_operator' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T14:14:47.927+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:14:47.926+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:14:47.954+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:14:47.954+0545] {dag.py:3954} INFO - Setting next_dagrun for example_bash_operator to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T14:14:47.984+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.164 seconds
+[2024-06-18T14:15:51.640+0545] {processor.py:161} INFO - Started process (PID=23823) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T14:15:51.654+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2024-06-18T14:15:51.657+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:15:51.656+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T14:15:51.685+0545] {processor.py:840} INFO - DAG(s) 'example_bash_operator' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T14:15:51.714+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:15:51.714+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:15:51.733+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:15:51.733+0545] {dag.py:3954} INFO - Setting next_dagrun for example_bash_operator to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T14:15:51.753+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.128 seconds
+[2024-06-18T14:16:49.815+0545] {processor.py:161} INFO - Started process (PID=24100) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T14:16:49.829+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2024-06-18T14:16:49.833+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:16:49.832+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T14:16:49.858+0545] {processor.py:840} INFO - DAG(s) 'example_bash_operator' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T14:16:49.884+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:16:49.883+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:16:49.902+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:16:49.902+0545] {dag.py:3954} INFO - Setting next_dagrun for example_bash_operator to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T14:16:49.922+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.121 seconds
+[2024-06-18T14:17:44.262+0545] {processor.py:161} INFO - Started process (PID=24363) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T14:17:44.275+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2024-06-18T14:17:44.278+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:17:44.277+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T14:17:44.304+0545] {processor.py:840} INFO - DAG(s) 'example_bash_operator' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T14:17:44.327+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:17:44.327+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:17:44.350+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:17:44.349+0545] {dag.py:3954} INFO - Setting next_dagrun for example_bash_operator to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T14:17:44.377+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.129 seconds
+[2024-06-18T14:18:39.200+0545] {processor.py:161} INFO - Started process (PID=24628) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T14:18:39.214+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2024-06-18T14:18:39.217+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:18:39.217+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T14:18:39.244+0545] {processor.py:840} INFO - DAG(s) 'example_bash_operator' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T14:18:39.287+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:18:39.287+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:18:39.308+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:18:39.308+0545] {dag.py:3954} INFO - Setting next_dagrun for example_bash_operator to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T14:18:39.329+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.141 seconds
+[2024-06-18T14:19:34.422+0545] {processor.py:161} INFO - Started process (PID=24891) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T14:19:34.425+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2024-06-18T14:19:34.428+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:19:34.427+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T14:19:34.453+0545] {processor.py:840} INFO - DAG(s) 'example_bash_operator' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T14:19:34.477+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:19:34.477+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:19:34.495+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:19:34.495+0545] {dag.py:3954} INFO - Setting next_dagrun for example_bash_operator to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T14:19:34.513+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.105 seconds
+[2024-06-18T14:20:28.711+0545] {processor.py:161} INFO - Started process (PID=25151) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T14:20:28.723+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2024-06-18T14:20:28.725+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:20:28.724+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T14:20:28.737+0545] {processor.py:840} INFO - DAG(s) 'example_bash_operator' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T14:20:28.764+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:20:28.764+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:20:28.783+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:20:28.782+0545] {dag.py:3954} INFO - Setting next_dagrun for example_bash_operator to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T14:20:28.802+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.098 seconds
+[2024-06-18T14:21:21.178+0545] {processor.py:161} INFO - Started process (PID=25404) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T14:21:21.191+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2024-06-18T14:21:21.196+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:21:21.195+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T14:21:21.220+0545] {processor.py:840} INFO - DAG(s) 'example_bash_operator' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T14:21:21.261+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:21:21.260+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:21:21.279+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:21:21.279+0545] {dag.py:3954} INFO - Setting next_dagrun for example_bash_operator to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T14:21:21.297+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.135 seconds
+[2024-06-18T14:22:14.712+0545] {processor.py:161} INFO - Started process (PID=25661) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T14:22:14.726+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2024-06-18T14:22:14.729+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:22:14.728+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T14:22:14.754+0545] {processor.py:840} INFO - DAG(s) 'example_bash_operator' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T14:22:14.804+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:22:14.803+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:22:14.828+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:22:14.827+0545] {dag.py:3954} INFO - Setting next_dagrun for example_bash_operator to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T14:22:14.859+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.163 seconds
+[2024-06-18T14:23:10.474+0545] {processor.py:161} INFO - Started process (PID=25931) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T14:23:10.487+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2024-06-18T14:23:10.491+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:23:10.490+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T14:23:10.513+0545] {processor.py:840} INFO - DAG(s) 'example_bash_operator' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T14:23:10.551+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:23:10.550+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:23:10.583+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:23:10.582+0545] {dag.py:3954} INFO - Setting next_dagrun for example_bash_operator to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T14:23:10.630+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.172 seconds
+[2024-06-18T14:24:02.850+0545] {processor.py:161} INFO - Started process (PID=26186) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T14:24:02.864+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2024-06-18T14:24:02.867+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:24:02.867+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T14:24:02.889+0545] {processor.py:840} INFO - DAG(s) 'example_bash_operator' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T14:24:02.911+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:24:02.911+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:24:02.932+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:24:02.932+0545] {dag.py:3954} INFO - Setting next_dagrun for example_bash_operator to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T14:24:02.961+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.127 seconds
+[2024-06-18T17:16:58.613+0545] {processor.py:161} INFO - Started process (PID=4473) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T17:16:58.615+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2024-06-18T17:16:58.617+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:16:58.616+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T17:16:58.633+0545] {processor.py:840} INFO - DAG(s) 'example_bash_operator' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T17:16:58.716+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:16:58.715+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T17:16:58.807+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:16:58.806+0545] {dag.py:3954} INFO - Setting next_dagrun for example_bash_operator to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T17:16:58.824+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.219 seconds
+[2024-06-18T17:18:03.584+0545] {processor.py:161} INFO - Started process (PID=4785) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T17:18:03.597+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2024-06-18T17:18:03.599+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:18:03.598+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T17:18:03.622+0545] {processor.py:840} INFO - DAG(s) 'example_bash_operator' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T17:18:03.667+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:18:03.667+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T17:18:03.694+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:18:03.694+0545] {dag.py:3954} INFO - Setting next_dagrun for example_bash_operator to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T17:18:03.732+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.160 seconds
+[2024-06-18T17:19:05.530+0545] {processor.py:161} INFO - Started process (PID=5501) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T17:19:05.540+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2024-06-18T17:19:05.543+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:19:05.542+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T17:19:05.570+0545] {processor.py:840} INFO - DAG(s) 'example_bash_operator' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T17:19:05.622+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:19:05.622+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T17:19:05.657+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:19:05.657+0545] {dag.py:3954} INFO - Setting next_dagrun for example_bash_operator to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T17:19:05.679+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.163 seconds
+[2024-06-18T17:20:00.817+0545] {processor.py:161} INFO - Started process (PID=5919) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T17:20:00.828+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2024-06-18T17:20:00.830+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:20:00.829+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T17:20:00.856+0545] {processor.py:840} INFO - DAG(s) 'example_bash_operator' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T17:20:00.892+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:20:00.892+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T17:20:00.910+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:20:00.910+0545] {dag.py:3954} INFO - Setting next_dagrun for example_bash_operator to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T17:20:00.929+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.125 seconds
+[2024-06-18T17:20:56.333+0545] {processor.py:161} INFO - Started process (PID=6594) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T17:20:56.334+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2024-06-18T17:20:56.336+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:20:56.335+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T17:20:56.352+0545] {processor.py:840} INFO - DAG(s) 'example_bash_operator' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T17:20:56.382+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:20:56.381+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T17:20:56.401+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:20:56.401+0545] {dag.py:3954} INFO - Setting next_dagrun for example_bash_operator to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T17:20:56.424+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.102 seconds
+[2024-06-18T17:22:24.925+0545] {processor.py:161} INFO - Started process (PID=7126) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T17:22:24.927+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2024-06-18T17:22:24.931+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:22:24.931+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T17:22:24.955+0545] {processor.py:840} INFO - DAG(s) 'example_bash_operator' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-06-18T17:22:25.075+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:22:25.074+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T17:22:25.197+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:22:25.196+0545] {dag.py:3954} INFO - Setting next_dagrun for example_bash_operator to 2024-06-17 00:00:00+00:00, run_after=2024-06-18 00:00:00+00:00
+[2024-06-18T17:22:25.242+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.329 seconds

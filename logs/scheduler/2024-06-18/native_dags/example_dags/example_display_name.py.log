@@ -1,0 +1,305 @@
+[2024-06-18T13:42:39.795+0545] {processor.py:161} INFO - Started process (PID=14236) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T13:42:39.795+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2024-06-18T13:42:39.797+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:42:39.797+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T13:42:39.805+0545] {processor.py:840} INFO - DAG(s) 'example_display_name' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T13:42:39.898+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:42:39.898+0545] {override.py:1829} INFO - Created Permission View: can read on DAG:example_display_name
+[2024-06-18T13:42:39.908+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:42:39.908+0545] {override.py:1829} INFO - Created Permission View: can edit on DAG:example_display_name
+[2024-06-18T13:42:39.915+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:42:39.914+0545] {override.py:1829} INFO - Created Permission View: can delete on DAG:example_display_name
+[2024-06-18T13:42:39.915+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:42:39.915+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T13:42:39.923+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:42:39.923+0545] {dag.py:3118} INFO - Creating ORM DAG for example_display_name
+[2024-06-18T13:42:39.924+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:42:39.924+0545] {dag.py:3954} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2024-06-18T13:42:39.940+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py took 0.151 seconds
+[2024-06-18T13:43:38.347+0545] {processor.py:161} INFO - Started process (PID=14528) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T13:43:38.350+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2024-06-18T13:43:38.353+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:43:38.352+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T13:43:38.363+0545] {processor.py:840} INFO - DAG(s) 'example_display_name' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T13:43:38.388+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:43:38.387+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T13:43:38.409+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:43:38.409+0545] {dag.py:3954} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2024-06-18T13:43:38.439+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py took 0.104 seconds
+[2024-06-18T13:44:42.193+0545] {processor.py:161} INFO - Started process (PID=14835) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T13:44:42.195+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2024-06-18T13:44:42.198+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:44:42.197+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T13:44:42.318+0545] {processor.py:840} INFO - DAG(s) 'example_display_name' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T13:44:42.334+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:44:42.334+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T13:44:42.349+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:44:42.348+0545] {dag.py:3954} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2024-06-18T13:44:42.379+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py took 0.200 seconds
+[2024-06-18T13:45:39.030+0545] {processor.py:161} INFO - Started process (PID=15109) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T13:45:39.043+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2024-06-18T13:45:39.047+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:45:39.046+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T13:45:39.061+0545] {processor.py:840} INFO - DAG(s) 'example_display_name' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T13:45:39.093+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:45:39.092+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T13:45:39.107+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:45:39.107+0545] {dag.py:3954} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2024-06-18T13:45:39.133+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py took 0.117 seconds
+[2024-06-18T13:46:33.140+0545] {processor.py:161} INFO - Started process (PID=15373) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T13:46:33.153+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2024-06-18T13:46:33.156+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:46:33.155+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T13:46:33.168+0545] {processor.py:840} INFO - DAG(s) 'example_display_name' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T13:46:33.199+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:46:33.199+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T13:46:33.212+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:46:33.212+0545] {dag.py:3954} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2024-06-18T13:46:33.233+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py took 0.106 seconds
+[2024-06-18T13:47:25.133+0545] {processor.py:161} INFO - Started process (PID=15623) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T13:47:25.147+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2024-06-18T13:47:25.151+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:47:25.150+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T13:47:25.163+0545] {processor.py:840} INFO - DAG(s) 'example_display_name' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T13:47:25.180+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:47:25.180+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T13:47:25.193+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:47:25.193+0545] {dag.py:3954} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2024-06-18T13:47:25.215+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py took 0.095 seconds
+[2024-06-18T13:48:16.916+0545] {processor.py:161} INFO - Started process (PID=15876) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T13:48:16.922+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2024-06-18T13:48:16.925+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:48:16.924+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T13:48:16.936+0545] {processor.py:840} INFO - DAG(s) 'example_display_name' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T13:48:16.965+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:48:16.965+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T13:48:16.978+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:48:16.978+0545] {dag.py:3954} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2024-06-18T13:48:16.996+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py took 0.095 seconds
+[2024-06-18T13:50:01.956+0545] {processor.py:161} INFO - Started process (PID=16403) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T13:50:01.958+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2024-06-18T13:50:01.959+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:50:01.959+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T13:50:01.966+0545] {processor.py:840} INFO - DAG(s) 'example_display_name' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T13:50:01.984+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:50:01.984+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T13:50:01.995+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:50:01.995+0545] {dag.py:3954} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2024-06-18T13:50:02.018+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py took 0.069 seconds
+[2024-06-18T13:51:46.281+0545] {processor.py:161} INFO - Started process (PID=16934) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T13:51:46.282+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2024-06-18T13:51:46.284+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:51:46.284+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T13:51:46.291+0545] {processor.py:840} INFO - DAG(s) 'example_display_name' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T13:51:46.309+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:51:46.308+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T13:51:46.321+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:51:46.321+0545] {dag.py:3954} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2024-06-18T13:51:46.345+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py took 0.072 seconds
+[2024-06-18T13:52:47.241+0545] {processor.py:161} INFO - Started process (PID=17255) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T13:52:47.243+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2024-06-18T13:52:47.246+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:52:47.246+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T13:52:47.262+0545] {processor.py:840} INFO - DAG(s) 'example_display_name' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T13:52:47.298+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:52:47.297+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T13:52:47.321+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:52:47.320+0545] {dag.py:3954} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2024-06-18T13:52:47.356+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py took 0.133 seconds
+[2024-06-18T13:53:52.423+0545] {processor.py:161} INFO - Started process (PID=17593) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T13:53:52.436+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2024-06-18T13:53:52.439+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:53:52.438+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T13:53:52.450+0545] {processor.py:840} INFO - DAG(s) 'example_display_name' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T13:53:52.467+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:53:52.467+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T13:53:52.477+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:53:52.477+0545] {dag.py:3954} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2024-06-18T13:53:52.508+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py took 0.099 seconds
+[2024-06-18T13:54:52.869+0545] {processor.py:161} INFO - Started process (PID=17888) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T13:54:52.882+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2024-06-18T13:54:52.886+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:54:52.885+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T13:54:52.899+0545] {processor.py:840} INFO - DAG(s) 'example_display_name' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T13:54:52.925+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:54:52.925+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T13:54:52.947+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:54:52.947+0545] {dag.py:3954} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2024-06-18T13:54:52.986+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py took 0.132 seconds
+[2024-06-18T13:56:03.966+0545] {processor.py:161} INFO - Started process (PID=18252) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T13:56:03.980+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2024-06-18T13:56:03.984+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:56:03.983+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T13:56:03.997+0545] {processor.py:840} INFO - DAG(s) 'example_display_name' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T13:56:04.013+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:56:04.013+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T13:56:04.024+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:56:04.024+0545] {dag.py:3954} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2024-06-18T13:56:04.055+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py took 0.102 seconds
+[2024-06-18T13:56:55.302+0545] {processor.py:161} INFO - Started process (PID=18500) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T13:56:55.316+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2024-06-18T13:56:55.319+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:56:55.318+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T13:56:55.333+0545] {processor.py:840} INFO - DAG(s) 'example_display_name' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T13:56:55.363+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:56:55.362+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T13:56:55.380+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:56:55.379+0545] {dag.py:3954} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2024-06-18T13:56:55.404+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py took 0.113 seconds
+[2024-06-18T13:57:47.537+0545] {processor.py:161} INFO - Started process (PID=18755) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T13:57:47.538+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2024-06-18T13:57:47.541+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:57:47.540+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T13:57:47.548+0545] {processor.py:840} INFO - DAG(s) 'example_display_name' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T13:57:47.564+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:57:47.564+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T13:57:47.574+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:57:47.574+0545] {dag.py:3954} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2024-06-18T13:57:47.593+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py took 0.070 seconds
+[2024-06-18T14:05:34.364+0545] {processor.py:161} INFO - Started process (PID=20820) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T14:05:34.367+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2024-06-18T14:05:34.370+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:05:34.369+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T14:05:34.382+0545] {processor.py:840} INFO - DAG(s) 'example_display_name' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T14:05:34.400+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:05:34.400+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:05:34.411+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:05:34.411+0545] {dag.py:3954} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2024-06-18T14:05:34.428+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py took 0.072 seconds
+[2024-06-18T14:06:32.738+0545] {processor.py:161} INFO - Started process (PID=21097) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T14:06:32.752+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2024-06-18T14:06:32.756+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:06:32.755+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T14:06:32.768+0545] {processor.py:840} INFO - DAG(s) 'example_display_name' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T14:06:32.785+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:06:32.784+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:06:32.810+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:06:32.810+0545] {dag.py:3954} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2024-06-18T14:06:32.849+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py took 0.125 seconds
+[2024-06-18T14:07:31.868+0545] {processor.py:161} INFO - Started process (PID=21381) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T14:07:31.881+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2024-06-18T14:07:31.885+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:07:31.884+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T14:07:31.897+0545] {processor.py:840} INFO - DAG(s) 'example_display_name' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T14:07:31.930+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:07:31.929+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:07:31.947+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:07:31.947+0545] {dag.py:3954} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2024-06-18T14:07:31.968+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py took 0.113 seconds
+[2024-06-18T14:08:28.255+0545] {processor.py:161} INFO - Started process (PID=21661) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T14:08:28.269+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2024-06-18T14:08:28.272+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:08:28.271+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T14:08:28.286+0545] {processor.py:840} INFO - DAG(s) 'example_display_name' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T14:08:28.316+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:08:28.315+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:08:28.333+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:08:28.333+0545] {dag.py:3954} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2024-06-18T14:08:28.352+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py took 0.112 seconds
+[2024-06-18T14:09:23.239+0545] {processor.py:161} INFO - Started process (PID=21927) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T14:09:23.252+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2024-06-18T14:09:23.257+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:09:23.256+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T14:09:23.271+0545] {processor.py:840} INFO - DAG(s) 'example_display_name' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T14:09:23.299+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:09:23.299+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:09:23.314+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:09:23.314+0545] {dag.py:3954} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2024-06-18T14:09:23.342+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py took 0.118 seconds
+[2024-06-18T14:10:19.403+0545] {processor.py:161} INFO - Started process (PID=22194) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T14:10:19.416+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2024-06-18T14:10:19.420+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:10:19.419+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T14:10:19.433+0545] {processor.py:840} INFO - DAG(s) 'example_display_name' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T14:10:19.462+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:10:19.462+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:10:19.485+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:10:19.485+0545] {dag.py:3954} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2024-06-18T14:10:19.510+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py took 0.121 seconds
+[2024-06-18T14:11:11.968+0545] {processor.py:161} INFO - Started process (PID=22447) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T14:11:11.981+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2024-06-18T14:11:11.985+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:11:11.984+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T14:11:11.999+0545] {processor.py:840} INFO - DAG(s) 'example_display_name' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T14:11:12.033+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:11:12.032+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:11:12.057+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:11:12.056+0545] {dag.py:3954} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2024-06-18T14:11:12.093+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py took 0.144 seconds
+[2024-06-18T14:12:04.542+0545] {processor.py:161} INFO - Started process (PID=22703) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T14:12:04.555+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2024-06-18T14:12:04.558+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:12:04.557+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T14:12:04.572+0545] {processor.py:840} INFO - DAG(s) 'example_display_name' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T14:12:04.603+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:12:04.603+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:12:04.626+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:12:04.626+0545] {dag.py:3954} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2024-06-18T14:12:04.661+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py took 0.133 seconds
+[2024-06-18T14:12:54.713+0545] {processor.py:161} INFO - Started process (PID=22946) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T14:12:54.726+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2024-06-18T14:12:54.730+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:12:54.729+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T14:12:54.742+0545] {processor.py:840} INFO - DAG(s) 'example_display_name' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T14:12:54.765+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:12:54.765+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:12:54.776+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:12:54.775+0545] {dag.py:3954} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2024-06-18T14:12:54.799+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py took 0.101 seconds
+[2024-06-18T14:13:46.827+0545] {processor.py:161} INFO - Started process (PID=23197) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T14:13:46.840+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2024-06-18T14:13:46.843+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:13:46.843+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T14:13:46.858+0545] {processor.py:840} INFO - DAG(s) 'example_display_name' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T14:13:46.893+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:13:46.892+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:13:46.916+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:13:46.916+0545] {dag.py:3954} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2024-06-18T14:13:46.939+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py took 0.128 seconds
+[2024-06-18T14:14:39.808+0545] {processor.py:161} INFO - Started process (PID=23452) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T14:14:39.821+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2024-06-18T14:14:39.824+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:14:39.823+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T14:14:39.836+0545] {processor.py:840} INFO - DAG(s) 'example_display_name' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T14:14:39.866+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:14:39.865+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:14:39.881+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:14:39.881+0545] {dag.py:3954} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2024-06-18T14:14:39.900+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py took 0.105 seconds
+[2024-06-18T14:15:44.075+0545] {processor.py:161} INFO - Started process (PID=23784) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T14:15:44.087+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2024-06-18T14:15:44.089+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:15:44.089+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T14:15:44.095+0545] {processor.py:840} INFO - DAG(s) 'example_display_name' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T14:15:44.111+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:15:44.110+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:15:44.123+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:15:44.123+0545] {dag.py:3954} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2024-06-18T14:15:44.143+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py took 0.075 seconds
+[2024-06-18T14:16:40.835+0545] {processor.py:161} INFO - Started process (PID=24057) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T14:16:40.857+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2024-06-18T14:16:40.860+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:16:40.859+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T14:16:40.873+0545] {processor.py:840} INFO - DAG(s) 'example_display_name' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T14:16:40.891+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:16:40.891+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:16:40.903+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:16:40.903+0545] {dag.py:3954} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2024-06-18T14:16:40.930+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py took 0.105 seconds
+[2024-06-18T14:17:35.203+0545] {processor.py:161} INFO - Started process (PID=24320) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T14:17:35.216+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2024-06-18T14:17:35.220+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:17:35.219+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T14:17:35.233+0545] {processor.py:840} INFO - DAG(s) 'example_display_name' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T14:17:35.264+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:17:35.263+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:17:35.288+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:17:35.288+0545] {dag.py:3954} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2024-06-18T14:17:35.340+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py took 0.152 seconds
+[2024-06-18T14:18:30.313+0545] {processor.py:161} INFO - Started process (PID=24586) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T14:18:30.326+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2024-06-18T14:18:30.330+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:18:30.329+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T14:18:30.345+0545] {processor.py:840} INFO - DAG(s) 'example_display_name' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T14:18:30.374+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:18:30.373+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:18:30.397+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:18:30.397+0545] {dag.py:3954} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2024-06-18T14:18:30.420+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py took 0.122 seconds
+[2024-06-18T14:19:25.358+0545] {processor.py:161} INFO - Started process (PID=24848) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T14:19:25.375+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2024-06-18T14:19:25.384+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:19:25.382+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T14:19:25.410+0545] {processor.py:840} INFO - DAG(s) 'example_display_name' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T14:19:25.441+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:19:25.441+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:19:25.457+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:19:25.457+0545] {dag.py:3954} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2024-06-18T14:19:25.486+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py took 0.156 seconds
+[2024-06-18T14:20:19.102+0545] {processor.py:161} INFO - Started process (PID=25105) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T14:20:19.115+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2024-06-18T14:20:19.118+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:20:19.117+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T14:20:19.133+0545] {processor.py:840} INFO - DAG(s) 'example_display_name' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T14:20:19.165+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:20:19.164+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:20:19.177+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:20:19.177+0545] {dag.py:3954} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2024-06-18T14:20:19.196+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py took 0.113 seconds
+[2024-06-18T14:21:11.255+0545] {processor.py:161} INFO - Started process (PID=25358) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T14:21:11.268+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2024-06-18T14:21:11.272+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:21:11.271+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T14:21:11.285+0545] {processor.py:840} INFO - DAG(s) 'example_display_name' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T14:21:11.312+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:21:11.312+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:21:11.338+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:21:11.337+0545] {dag.py:3954} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2024-06-18T14:21:11.372+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py took 0.131 seconds
+[2024-06-18T14:22:05.698+0545] {processor.py:161} INFO - Started process (PID=25618) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T14:22:05.712+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2024-06-18T14:22:05.715+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:22:05.714+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T14:22:05.729+0545] {processor.py:840} INFO - DAG(s) 'example_display_name' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T14:22:05.762+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:22:05.761+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:22:05.777+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:22:05.776+0545] {dag.py:3954} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2024-06-18T14:22:05.798+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py took 0.114 seconds
+[2024-06-18T14:23:01.500+0545] {processor.py:161} INFO - Started process (PID=25888) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T14:23:01.503+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2024-06-18T14:23:01.506+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:23:01.505+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T14:23:01.519+0545] {processor.py:840} INFO - DAG(s) 'example_display_name' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T14:23:01.549+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:23:01.549+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:23:01.562+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:23:01.561+0545] {dag.py:3954} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2024-06-18T14:23:01.605+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py took 0.120 seconds
+[2024-06-18T14:23:53.867+0545] {processor.py:161} INFO - Started process (PID=26143) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T14:23:53.880+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2024-06-18T14:23:53.884+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:23:53.883+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T14:23:53.898+0545] {processor.py:840} INFO - DAG(s) 'example_display_name' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T14:23:53.915+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:23:53.915+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:23:53.939+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:23:53.939+0545] {dag.py:3954} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2024-06-18T14:23:53.983+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py took 0.132 seconds
+[2024-06-18T17:16:47.912+0545] {processor.py:161} INFO - Started process (PID=4422) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T17:16:47.914+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2024-06-18T17:16:47.916+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:16:47.915+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T17:16:47.929+0545] {processor.py:840} INFO - DAG(s) 'example_display_name' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T17:16:48.137+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:16:48.137+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T17:16:48.161+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:16:48.160+0545] {dag.py:3954} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2024-06-18T17:16:48.209+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py took 0.312 seconds
+[2024-06-18T17:17:55.475+0545] {processor.py:161} INFO - Started process (PID=4745) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T17:17:55.478+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2024-06-18T17:17:55.481+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:17:55.480+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T17:17:55.494+0545] {processor.py:840} INFO - DAG(s) 'example_display_name' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T17:17:55.533+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:17:55.533+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T17:17:55.561+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:17:55.560+0545] {dag.py:3954} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2024-06-18T17:17:55.602+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py took 0.140 seconds
+[2024-06-18T17:18:55.418+0545] {processor.py:161} INFO - Started process (PID=5454) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T17:18:55.456+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2024-06-18T17:18:55.458+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:18:55.457+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T17:18:55.569+0545] {processor.py:840} INFO - DAG(s) 'example_display_name' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T17:18:55.578+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:18:55.578+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T17:18:55.585+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:18:55.585+0545] {dag.py:3954} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2024-06-18T17:18:55.601+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py took 0.196 seconds
+[2024-06-18T17:19:51.835+0545] {processor.py:161} INFO - Started process (PID=5876) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T17:19:51.848+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2024-06-18T17:19:51.850+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:19:51.849+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T17:19:51.864+0545] {processor.py:840} INFO - DAG(s) 'example_display_name' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T17:19:51.884+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:19:51.884+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T17:19:51.894+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:19:51.894+0545] {dag.py:3954} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2024-06-18T17:19:51.915+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py took 0.093 seconds
+[2024-06-18T17:20:47.772+0545] {processor.py:161} INFO - Started process (PID=6552) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T17:20:47.786+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2024-06-18T17:20:47.788+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:20:47.787+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T17:20:47.801+0545] {processor.py:840} INFO - DAG(s) 'example_display_name' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T17:20:47.832+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:20:47.831+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T17:20:47.858+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:20:47.858+0545] {dag.py:3954} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2024-06-18T17:20:47.902+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py took 0.143 seconds
+[2024-06-18T17:22:16.030+0545] {processor.py:161} INFO - Started process (PID=7082) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T17:22:16.032+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2024-06-18T17:22:16.035+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:22:16.034+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T17:22:16.046+0545] {processor.py:840} INFO - DAG(s) 'example_display_name' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T17:22:16.120+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:22:16.120+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T17:22:16.127+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:22:16.127+0545] {dag.py:3954} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2024-06-18T17:22:16.146+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py took 0.127 seconds
+[2024-06-18T17:23:27.292+0545] {processor.py:161} INFO - Started process (PID=7446) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T17:23:27.306+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2024-06-18T17:23:27.309+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:23:27.309+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T17:23:27.323+0545] {processor.py:840} INFO - DAG(s) 'example_display_name' retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py
+[2024-06-18T17:23:27.348+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:23:27.348+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T17:23:27.360+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:23:27.360+0545] {dag.py:3954} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2024-06-18T17:23:27.394+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/example_display_name.py took 0.113 seconds

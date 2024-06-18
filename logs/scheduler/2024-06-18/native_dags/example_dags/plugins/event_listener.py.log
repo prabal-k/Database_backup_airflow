@@ -1,0 +1,220 @@
+[2024-06-18T13:42:14.501+0545] {processor.py:161} INFO - Started process (PID=14118) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T13:42:14.501+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2024-06-18T13:42:14.503+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:42:14.503+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T13:42:14.507+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T13:42:14.521+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.027 seconds
+[2024-06-18T13:43:17.017+0545] {processor.py:161} INFO - Started process (PID=14414) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T13:43:17.019+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2024-06-18T13:43:17.022+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:43:17.022+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T13:43:17.025+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T13:43:17.036+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.033 seconds
+[2024-06-18T13:44:14.512+0545] {processor.py:161} INFO - Started process (PID=14705) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T13:44:14.524+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2024-06-18T13:44:14.527+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:44:14.526+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T13:44:14.531+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T13:44:14.545+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.039 seconds
+[2024-06-18T13:45:17.548+0545] {processor.py:161} INFO - Started process (PID=15005) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T13:45:17.561+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2024-06-18T13:45:17.565+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:45:17.564+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T13:45:17.569+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T13:45:17.589+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.057 seconds
+[2024-06-18T13:46:08.834+0545] {processor.py:161} INFO - Started process (PID=15253) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T13:46:08.847+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2024-06-18T13:46:08.849+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:46:08.849+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T13:46:08.852+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T13:46:08.868+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.048 seconds
+[2024-06-18T13:47:01.607+0545] {processor.py:161} INFO - Started process (PID=15509) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T13:47:01.620+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2024-06-18T13:47:01.623+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:47:01.622+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T13:47:01.627+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T13:47:01.643+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.045 seconds
+[2024-06-18T13:47:51.773+0545] {processor.py:161} INFO - Started process (PID=15753) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T13:47:51.786+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2024-06-18T13:47:51.789+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:47:51.788+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T13:47:51.793+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T13:47:51.812+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.053 seconds
+[2024-06-18T13:48:42.484+0545] {processor.py:161} INFO - Started process (PID=16015) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T13:48:42.485+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2024-06-18T13:48:42.487+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:48:42.486+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T13:48:42.490+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T13:48:42.506+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.028 seconds
+[2024-06-18T13:49:45.667+0545] {processor.py:161} INFO - Started process (PID=16325) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T13:49:45.681+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2024-06-18T13:49:45.685+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:49:45.684+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T13:49:45.689+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T13:49:45.709+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.057 seconds
+[2024-06-18T13:51:06.640+0545] {processor.py:161} INFO - Started process (PID=16715) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T13:51:06.642+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2024-06-18T13:51:06.646+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:51:06.645+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T13:51:06.649+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T13:51:06.664+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.038 seconds
+[2024-06-18T13:52:15.997+0545] {processor.py:161} INFO - Started process (PID=17092) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T13:52:15.999+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2024-06-18T13:52:16.002+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:52:16.002+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T13:52:16.006+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T13:52:16.019+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.039 seconds
+[2024-06-18T13:53:31.357+0545] {processor.py:161} INFO - Started process (PID=17491) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T13:53:31.370+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2024-06-18T13:53:31.374+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:53:31.373+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T13:53:31.379+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T13:53:31.396+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.055 seconds
+[2024-06-18T13:54:24.436+0545] {processor.py:161} INFO - Started process (PID=17748) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T13:54:24.449+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2024-06-18T13:54:24.453+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:54:24.452+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T13:54:24.458+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T13:54:24.484+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.064 seconds
+[2024-06-18T13:55:27.709+0545] {processor.py:161} INFO - Started process (PID=18079) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T13:55:27.721+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2024-06-18T13:55:27.723+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:55:27.723+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T13:55:27.726+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T13:55:27.745+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.042 seconds
+[2024-06-18T13:56:23.610+0545] {processor.py:161} INFO - Started process (PID=18347) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T13:56:23.624+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2024-06-18T13:56:23.627+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:56:23.627+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T13:56:23.632+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T13:56:23.654+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.058 seconds
+[2024-06-18T13:57:12.235+0545] {processor.py:161} INFO - Started process (PID=18586) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T13:57:12.248+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2024-06-18T13:57:12.251+0545] {logging_mixin.py:188} INFO - [2024-06-18T13:57:12.250+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T13:57:12.254+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T13:57:12.271+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.052 seconds
+[2024-06-18T14:05:13.232+0545] {processor.py:161} INFO - Started process (PID=20702) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T14:05:13.233+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2024-06-18T14:05:13.235+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:05:13.235+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T14:05:13.238+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T14:05:13.247+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.021 seconds
+[2024-06-18T14:06:10.625+0545] {processor.py:161} INFO - Started process (PID=20992) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T14:06:10.638+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2024-06-18T14:06:10.642+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:06:10.641+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T14:06:10.647+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T14:06:10.662+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.052 seconds
+[2024-06-18T14:07:08.305+0545] {processor.py:161} INFO - Started process (PID=21269) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T14:07:08.308+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2024-06-18T14:07:08.311+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:07:08.310+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T14:07:08.314+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T14:07:08.325+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.034 seconds
+[2024-06-18T14:08:05.714+0545] {processor.py:161} INFO - Started process (PID=21554) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T14:08:05.727+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2024-06-18T14:08:05.731+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:08:05.730+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T14:08:05.736+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T14:08:05.758+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.059 seconds
+[2024-06-18T14:08:59.041+0545] {processor.py:161} INFO - Started process (PID=21810) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T14:08:59.054+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2024-06-18T14:08:59.058+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:08:59.057+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T14:08:59.062+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T14:08:59.084+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.056 seconds
+[2024-06-18T14:09:54.029+0545] {processor.py:161} INFO - Started process (PID=22074) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T14:09:54.042+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2024-06-18T14:09:54.046+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:09:54.045+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T14:09:54.051+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T14:09:54.075+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.059 seconds
+[2024-06-18T14:10:48.661+0545] {processor.py:161} INFO - Started process (PID=22335) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T14:10:48.674+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2024-06-18T14:10:48.678+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:10:48.677+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T14:10:48.683+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T14:10:48.701+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.054 seconds
+[2024-06-18T14:11:39.669+0545] {processor.py:161} INFO - Started process (PID=22584) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T14:11:39.683+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2024-06-18T14:11:39.689+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:11:39.688+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T14:11:39.696+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T14:11:39.723+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.068 seconds
+[2024-06-18T14:12:31.295+0545] {processor.py:161} INFO - Started process (PID=22831) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T14:12:31.308+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2024-06-18T14:12:31.311+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:12:31.310+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T14:12:31.315+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T14:12:31.338+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.058 seconds
+[2024-06-18T14:13:21.030+0545] {processor.py:161} INFO - Started process (PID=23071) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T14:13:21.044+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2024-06-18T14:13:21.047+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:13:21.047+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T14:13:21.052+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T14:13:21.072+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.056 seconds
+[2024-06-18T14:14:14.864+0545] {processor.py:161} INFO - Started process (PID=23331) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T14:14:14.877+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2024-06-18T14:14:14.879+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:14:14.878+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T14:14:14.883+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T14:14:14.904+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.051 seconds
+[2024-06-18T14:15:15.005+0545] {processor.py:161} INFO - Started process (PID=23644) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T14:15:15.006+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2024-06-18T14:15:15.007+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:15:15.007+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T14:15:15.010+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T14:15:15.023+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.025 seconds
+[2024-06-18T14:16:14.682+0545] {processor.py:161} INFO - Started process (PID=23933) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T14:16:14.695+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2024-06-18T14:16:14.698+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:16:14.698+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T14:16:14.704+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T14:16:14.726+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.059 seconds
+[2024-06-18T14:17:09.256+0545] {processor.py:161} INFO - Started process (PID=24197) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T14:17:09.270+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2024-06-18T14:17:09.273+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:17:09.272+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T14:17:09.279+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T14:17:09.293+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.051 seconds
+[2024-06-18T14:18:04.269+0545] {processor.py:161} INFO - Started process (PID=24458) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T14:18:04.283+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2024-06-18T14:18:04.286+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:18:04.285+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T14:18:04.291+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T14:18:04.313+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.058 seconds
+[2024-06-18T14:18:59.494+0545] {processor.py:161} INFO - Started process (PID=24725) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T14:18:59.507+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2024-06-18T14:18:59.510+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:18:59.509+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T14:18:59.515+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T14:18:59.538+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.058 seconds
+[2024-06-18T14:19:55.724+0545] {processor.py:161} INFO - Started process (PID=24992) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T14:19:55.737+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2024-06-18T14:19:55.740+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:19:55.740+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T14:19:55.745+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T14:19:55.759+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.048 seconds
+[2024-06-18T14:20:45.975+0545] {processor.py:161} INFO - Started process (PID=25236) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T14:20:45.988+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2024-06-18T14:20:45.992+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:20:45.991+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T14:20:45.997+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T14:20:46.019+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.057 seconds
+[2024-06-18T14:21:39.496+0545] {processor.py:161} INFO - Started process (PID=25491) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T14:21:39.509+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2024-06-18T14:21:39.513+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:21:39.512+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T14:21:39.518+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T14:21:39.539+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.058 seconds
+[2024-06-18T14:22:35.097+0545] {processor.py:161} INFO - Started process (PID=25760) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T14:22:35.110+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2024-06-18T14:22:35.114+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:22:35.113+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T14:22:35.119+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T14:22:35.138+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.055 seconds
+[2024-06-18T14:23:27.762+0545] {processor.py:161} INFO - Started process (PID=26017) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T14:23:27.775+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2024-06-18T14:23:27.778+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:23:27.777+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T14:23:27.782+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T14:23:27.797+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.048 seconds
+[2024-06-18T17:15:44.357+0545] {processor.py:161} INFO - Started process (PID=4044) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T17:15:44.358+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2024-06-18T17:15:44.363+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:15:44.363+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T17:15:44.366+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T17:15:44.381+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.036 seconds
+[2024-06-18T17:17:27.747+0545] {processor.py:161} INFO - Started process (PID=4613) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T17:17:27.749+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2024-06-18T17:17:27.752+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:17:27.750+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T17:17:27.760+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T17:17:27.781+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.052 seconds
+[2024-06-18T17:18:28.398+0545] {processor.py:161} INFO - Started process (PID=4961) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T17:18:28.401+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2024-06-18T17:18:28.402+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:18:28.402+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T17:18:28.407+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T17:18:28.427+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.044 seconds
+[2024-06-18T17:19:27.958+0545] {processor.py:161} INFO - Started process (PID=5610) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T17:19:27.960+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2024-06-18T17:19:27.961+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:19:27.961+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T17:19:27.965+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T17:19:27.985+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.039 seconds
+[2024-06-18T17:20:21.571+0545] {processor.py:161} INFO - Started process (PID=6325) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T17:20:21.584+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2024-06-18T17:20:21.586+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:20:21.585+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T17:20:21.591+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T17:20:21.622+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.066 seconds
+[2024-06-18T17:21:55.675+0545] {processor.py:161} INFO - Started process (PID=6975) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T17:21:55.688+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2024-06-18T17:21:55.694+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:21:55.691+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T17:21:55.700+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T17:21:55.735+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.073 seconds
+[2024-06-18T17:23:02.040+0545] {processor.py:161} INFO - Started process (PID=7327) to work on /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T17:23:02.054+0545] {processor.py:830} INFO - Processing file /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2024-06-18T17:23:02.057+0545] {logging_mixin.py:188} INFO - [2024-06-18T17:23:02.057+0545] {dagbag.py:545} INFO - Filling up the DagBag from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T17:23:02.062+0545] {processor.py:842} WARNING - No viable dags retrieved from /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-06-18T17:23:02.080+0545] {processor.py:183} INFO - Processing /home/prabal/afenv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.052 seconds
